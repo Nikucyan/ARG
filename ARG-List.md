@@ -37,7 +37,7 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan).
 
 2. **声音频谱图**：找到这支视频的 *声音频谱图*，会看到 <u>「REMARKS」</u> 和一个 <u>指向右边的箭头</u>
 
-   ![Remarks](https://github.com/Nikucyan/ARG/blob/main/Images/Remarks.png)
+   ![Remarks](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/blob/main/Images/Remarks.png)
    
    提示：不自然的声音和结尾闪烁的频谱图
  

@@ -10,5 +10,5 @@ The document `ARG-List.md` should be written in a standard markdown format.The m
 2.  引用所有的图片请使用 delivr 的 CDN 加速服务，直接前缀 `https://cdn.jsdelivr.net/gh/` 即可（如 `paperclip_Remarks.png` 图片则为 `![paperclip_Remarks](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/paperclip_Remarks.png)`，效果如下）
     ![paperclip_Remarks](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/paperclip_Remarks.png)
 3.  善用有序 / 无序列表、加粗、超链接、不同等级标题等，所有引用材料必须注明引用源（推荐使用 `>` 格式并且加上超链接，如 `> [The White Door: Basement Achievement (ARG) Walkthrough Guide ](https://www.appunwrapper.com/2020/01/20/the-white-door-basement-walkthrough-guide/)`，效果如下）
-    > [The White Door: Basement Achievement (ARG) Walkthrough Guide ](https://www.appunwrapper.com/2020/01/20/the-white-door-basement-walkthrough-guide/)
+    > © AppUnwrapper | [The White Door: Basement Achievement (ARG) Walkthrough Guide ](https://www.appunwrapper.com/2020/01/20/the-white-door-basement-walkthrough-guide/)
 4.  所有全角半角混用之处请加入空格（如 `使用 CDN 加速`）

@@ -4,14 +4,19 @@ This repo is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpar
   
 > This document will record some puzzles related to sound
 ---
-  
+</br></br>
+
+
 ## 1. 声音倒放
 制作时需要将音频倒放；而解谜只需要将音频倒放回来恢复为正序播放音频即可。该类谜题较为简单常见。
 
+<font size=50>
 *Example*</br>
 *Retrieved from: Paperclip  回形针 Vol. 100 (2019.11)*</br>
+</font>
 
 **倒放的录音**：把开头倒放就能听到（录音：十二位数是球赛开始的时间）
+</br></br>
 
 
 ## 2. 频谱图案
@@ -23,3 +28,6 @@ This repo is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpar
 **声音频谱图**：找到这支视频的 *声音频谱图*，会看到 <u>「REMARKS」</u> 和一个 <u>指向右边的箭头</u>
 ![paperclip_Remarks](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/paperclip_Remarks.png) 
 提示：不自然的声音和结尾闪烁的频谱图
+</br></br>
+
+

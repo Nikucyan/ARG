@@ -38,7 +38,7 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan).
 
 2. **声音频谱图**：找到这支视频的 *声音频谱图*，会看到 <u>「REMARKS」</u> 和一个 <u>指向右边的箭头</u>
 
-   ![Remarks](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/paperclip_Remarks.png)
+   ![paperclip_Remarks](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/paperclip_Remarks.png)
    
    提示：不自然的声音和结尾闪烁的频谱图
  
@@ -56,9 +56,13 @@ ipaperclip.net（回形针手册）的首页，可以很轻松的找到 <u>G 类
 
 在机票这期，在登机牌上找到 REMARKS——一串备注编号（REMARK 对应了上文的线索），即使没发现，如果注意到原视频的系统时间 1 分 50 秒的话也可以找到这张登机牌。红圈、数字、箭头，把备注编码移动到右边的红圈里，<u>对齐</u>，答案是 69 和 52。
 
+![paperclip_Remarks2](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/paperclip_Remarks2.png)
+
 在回形针 <u>第 69 期和 52 期的 2 分 04 秒</u> 可以找到一张 <u>验光单</u> 和 <u>球赛结束的画面</u>，<u>时间相减</u>，就是球赛开始的时间：<u>2019 年 5 月 20 日 9 点 50 分</u>。（即使不把 7 对齐，两个红圈也只能圈出 8 种组合，但只有 69 和 52 这一组才能找到球赛。）
 
-把 <u>时间代入右上角的网址</u>，输入机票上的常旅客号码，拔插头插上，开启第二阶段的倒计时。
+![paperclip_Remarks2](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/paperclip_time.png)
+
+把 <u>时间代入右上角的网址</u> (201905200950.ipaperclip.net)，输入机票上的常旅客号码，拔插头插上，开启第二阶段的倒计时。
 
 
 #### 第二阶段

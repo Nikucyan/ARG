@@ -26,6 +26,7 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan).
 ### 6. Paperclip  回形针 Vol. 100 (2019.11)
 
 
+> 根据下列内容整理：
 > - [Vol.100 来自回形针的挑战信](https://www.youtube.com/watch?v=flEeT6jW1H4)
 > - [Sp. 003 解谜 PaperClip100：球赛、机票、 脚本和 DDos 攻击](https://www.youtube.com/watch?v=8t5Q9gdbwNA)
 
@@ -37,7 +38,7 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan).
 
 2. **声音频谱图**：找到这支视频的 *声音频谱图*，会看到 <u>「REMARKS」</u> 和一个 <u>指向右边的箭头</u>
 
-   ![Remarks](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/Remarks.png)
+   ![Remarks](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/paperclip_Remarks.png)
    
    提示：不自然的声音和结尾闪烁的频谱图
  
@@ -46,6 +47,8 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan).
 
    - 右上角的 ipaperclip.net 与左上角的 Vol.G.56-1-1 相连，Vol.G.56-1-1 再链接左下角的两个 Vol，最后链接左上角的 12 个 X
    - 右下角 1111100s：把 2 进制转换成 10 进制就是 124s，也就是 2 分 04 秒。而Vol 当然是我们的节目的编号前缀
+
+   ![paperclip_bg](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/paperclip_bg.png)
 
 通过 ipaperclip.net 找到左上角的节目，根据左上角的节目找到 <u>左下角两个红圈</u> 里的节目编号，再通过这两期节目的 <u>2 分 04 秒</u> 推理出左上角的 12 位数，结合倒放声音的线索，这 12 位数也就是比赛开始的时间（ipaperclip.net 已经停止运营）
 

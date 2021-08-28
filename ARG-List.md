@@ -1,6 +1,6 @@
 # ARG List
 
-This document is maintained by [Nikucyan](https://github.com/Nikucyan).
+This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpara](https://github.com/bdcformpara).
 
 > This is an *ARG list* recording some of the interesting ARGs (Argumented Reality Games) around the world. The main purpose is to study the game plays from various dev. groups.
 > Some organizations and producers may be controversial, this document is for learning and exchange purposes only.
@@ -64,8 +64,59 @@ ipaperclip.net（回形针手册）的首页，可以很轻松的找到 <u>G 类
 
 把 <u>时间代入右上角的网址</u> (201905200950.ipaperclip.net)，输入机票上的常旅客号码，拔插头插上，开启第二阶段的倒计时。
 
+（暴力破解方式：ping 以时间为前缀的网址）
+
+#### 第二阶段倒计时
+
+倒计时可以由访问用户插上或拔下。
+
+由于受到大规模 DDos 攻击，停止计时重新上线后制作组为 15 分 13 秒设计了一个新谜题，谜底是第二阶段的新网站。
+
+![paperclip_countdown](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/paperclip_countdown4.png) 
+
+![paperclip_countdown3](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/paperclip_countdown3.png)
+
+时间线索会提示找到 <u>1 分 33 秒和 3 分 11 秒</u>，对比第 15 期和 13 期这两个时间点的画面，可以很容易找到这位大叔的脱发面积，也就是右下角新网站的地址：100-140cm.ipaperclip.net。
 
 #### 第二阶段
+
+第二阶段为一个 <u>实时反馈</u>，并且需要参与者 <u>相互协作完成通关</u> 的游戏。红色色块是障碍物，碰到就失败，蓝色色块是敌人，可以用攻击消灭。通关条件是碰到这两个黄色色块。而下面的 20 个跳和 20 个攻击按钮则对应回形针在这个位置做出的动作，每个按键点击的人数越多，跳的越高，攻击力越大。前四格的的设计目标主要是教学，玩家需要在前三格不跳，用攻击消灭第一个敌人，然后用一个足够高的跳跃数值跳过后两个障碍物。
+
+解决方案：脚本 + bug
+
+Bug：游戏帧率为 45 帧。理论上来说，只要每秒瞬移的距离够大，可以直接穿过障碍物而不判定为死亡。
+
+![paperclip_second](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/paperclip_second.png) 
+
+#### 第三阶段
+
+**SHA-1：哈希加密算法**
+
+任何数值经过哈希加密都可以得到一串 40 位 16 进制的字符串。把左边的信息用 SHA-1 加密，加上后缀 ipaperclip.net，就是最终阶段的页面了。
+
+ ![paperclip_third](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/paperclip_third.png)
+
+下列任何一种组合都可以成立
+
+ ![paperclip_sha1](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/paperclip_sha1.png) 
+
+#### 结尾
+
+根据这个页面线索推理出 ABC 三个路线的对应条目，完成编辑，就能获得对应的奖品，编辑记录的时间会作为最终排名的依据。
+
+- **页面背景里的图像**：奖品的剪影图像
+
+-  ABC 路线奖品图片里**左上角的数字**：分别是 0300、0235、0350（对应时间）
+
+- 原视频里三个奖品的**黑白闪烁**：<u>二进制换算</u>
+
+  奖品 A 是黑白黑白黑白，也就是 101010，换上成十进制为 42，即第 42 期节目。同理，奖品 B 是 10101 ，第 21 期，奖品 C 是 101，第 5 期。所以路线 A 对应的条目是回形针第 42 期的 3 分 0 秒——宠物饲养，所以路线 B 对应的条目是回形针第 21 期的 2 分 35 秒——航空旅客运输，而路线 C 对应的条目是回形针第 5 期的 3 分 50 秒——影视特效创作。
+
+#### 设计基本原则
+
+1. 为了让尽可能多的观众参与，所有谜题 <u>不需用到复杂的专业知识</u> 也能解开。
+2. <u>所有刻意给出的线索都有意义，都是推理链条里的必须要素</u>。而其他辅助线索即使找不到也可以完成解谜。
+3. <u>尽可能让逻辑链相互衔接</u>。比如通过对常旅客号码、球赛画面、二进制、节目编号等 <u>线索的重复使用</u>，<u>即使单个环节被暴力破解，也无法完成顺利通关</u>。
 
 
 

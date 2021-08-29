@@ -34,6 +34,7 @@ ipaperclip.net（回形针手册）的首页，可以很轻松的找到 <u>G 类
 
 在机票这期，在登机牌上找到 REMARKS——一串备注编号（REMARK 对应了上文的线索），即使没发现，如果注意到 <u>原视频的系统时间 1 分 50 秒</u> 的话也可以找到这张登机牌。红圈、数字、箭头，把备注编码移动到右边的红圈里，<u>对齐</u>，答案是 69 和 52。
 
+![paperclip_Remarks2](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/paperclip_Remarks3.png) 
 ![paperclip_Remarks2](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/paperclip_Remarks2.png) 
 
 在回形针 <u>第 69 期和 52 期的 2 分 04 秒</u> 可以找到一张 <u>验光单</u> 和 <u>球赛结束的画面</u>，<u>时间相减</u>，就是球赛开始的时间：<u>2019 年 5 月 20 日 9 点 50 分</u>。（即使不把 7 对齐，两个红圈也只能圈出 8 种组合，但只有 69 和 52 这一组才能找到球赛。）
@@ -54,7 +55,7 @@ ipaperclip.net（回形针手册）的首页，可以很轻松的找到 <u>G 类
 
 ![paperclip_countdown3](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/paperclip_countdown3.png) 
 
-时间线索会提示找到 <u>1 分 33 秒和 3 分 11 秒</u>，对比第 15 期和 13 期这两个时间点的画面，可以很容易找到这位大叔的脱发面积，也就是右下角新网站的地址：100-140cm.ipaperclip.net。
+时间线索会提示找到 <u>1 分 31 秒和 3 分 11 秒</u>，对比第 15 期和 13 期这两个时间点的画面，可以很容易找到这位大叔的脱发面积，也就是右下角新网站的地址：100-140cm.ipaperclip.net。
 
 ## 第二阶段
 

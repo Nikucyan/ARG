@@ -44,7 +44,7 @@ ipaperclip.net（回形针手册）的首页，可以很轻松的找到 <u>G 类
 
 倒计时可以由访问用户插上或拔下。
 
-由于受到大规模 DDos 攻击，停止计时重新上线后制作组为 15 分 13 秒设计了一个新谜题，谜底是第二阶段的新网站。
+由于受到大规模 DDoS 攻击，停止计时重新上线后制作组为 15 分 13 秒设计了一个新谜题，谜底是第二阶段的新网站。
 
 ![paperclip_countdown4](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/paperclip_countdown4.png) 
 

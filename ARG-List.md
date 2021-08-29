@@ -30,6 +30,7 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 
 > - The Game Theorists, [Game Theory: Doki Doki's SCARIEST Monster is Hiding in Plain Sight (Doki Doki Literature Club)](https://www.youtube.com/watch?v=i28Dd8jXZxs)
 > - The Game Theorists, [Game Theory: Doki Doki Decoded! (Doki Doki Literature Club)](https://www.youtube.com/watch?v=w9AWvi82uDw)
+> - The Game Theorists, [Game Theory: Monika Has ESCAPED! (Doki Doki Literature Club Plus)](https://www.youtube.com/watch?v=iFonEHwC65Q)
 
 
 

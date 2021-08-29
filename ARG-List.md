@@ -20,7 +20,7 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 
 ### 2. White Door  白门
 
-> - © AppUnwrapper, [The White Door: Basement Achievement (ARG) Walkthrough Guide ](https://www.appunwrapper.com/2020/01/20/the-white-door-basement-walkthrough-guide/)
+> - AppUnwrapper, [The White Door: Basement Achievement (ARG) Walkthrough Guide ](https://www.appunwrapper.com/2020/01/20/the-white-door-basement-walkthrough-guide/)
 > - 零崎人物，[这是一场十国联手完成的解谜游戏...答案居然藏在现实中](https://www.bilibili.com/video/BV1VK4y137DN)
 > - Game Main Page: [Welcome to The White Door | Mental Health And Fishing](http://mentalhealthandfishing.com/)
 

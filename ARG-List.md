@@ -127,7 +127,8 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
  
 ### ARG in MKG
 
-
+> - [ARG与我的游戏旅程 ( 上 ) - 一再半途而废的制作之梦](https://mp.weixin.qq.com/s/JNk8mI3-yjedQcwVEObVdg)
+> - [ARG与我的游戏旅程 ( 中 ) - YesterMorrow](https://mp.weixin.qq.com/s/d4PPhiBVGXUSqctij_c77g)
 
 ---
 

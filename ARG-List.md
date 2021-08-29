@@ -28,8 +28,8 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 
 ### 3. Dokidoki Literature Club  心跳文学俱乐部
 
-> - https://www.youtube.com/watch?v=i28Dd8jXZxs
-> - https://www.youtube.com/watch?v=w9AWvi82uDw
+> - The Game Theorists, [Game Theory: Doki Doki's SCARIEST Monster is Hiding in Plain Sight (Doki Doki Literature Club)](https://www.youtube.com/watch?v=i28Dd8jXZxs)
+> - The Game Theorists, [Game Theory: Doki Doki Decoded! (Doki Doki Literature Club)](https://www.youtube.com/watch?v=w9AWvi82uDw)
 
 
 
@@ -92,7 +92,7 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 
 ### 11. 古镜记
 
-> - 游戏研究社 [ 藻起藻睡 ]：[40个陌生人历时120小时，通关了一款现实中的解谜游戏](https://mp.weixin.qq.com/s/3cN1glExKSs0yVgOMxhFSQ)       
+> - 藻起藻睡，游戏研究社，[40个陌生人历时120小时，通关了一款现实中的解谜游戏](https://mp.weixin.qq.com/s/3cN1glExKSs0yVgOMxhFSQ)       
 
 
 

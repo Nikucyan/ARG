@@ -20,7 +20,7 @@ This repo is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpar
 </br></br>
 
 *Example*</br>
-*Retrieved from: 密码吧 - HighnessC，求救，我已经快想爆了。*</br>
+*Retrieved from: 密码吧，求救，我已经快想爆了。*</br>
 
 41 94 41 81 41 63 41 92 62 23 74 </br>
 每个组合个位数都不超过4。</br>

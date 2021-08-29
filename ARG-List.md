@@ -110,6 +110,11 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 
 ### 14. Six-step Mystery  六阶谜题
 
+待补充
+
+
+### 15. Yixi  一席 - 一切皆可游戏 (2020.06.07)
+
 > - 徐奥林，[我决定做一些更夸张的尝试，比如能不能把北京上海的地铁改编成一个密室逃脱？| 徐奥林 一席第768位讲者](https://mp.weixin.qq.com/s/A7r_wkijVcJp5uKW1dMd7A)
 
 

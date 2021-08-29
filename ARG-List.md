@@ -3,7 +3,7 @@
 This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpara](https://github.com/bdcformpara).
 
 > This is an *ARG list* recording some of the interesting ARGs (Argumented Reality Games) around the world. The main purpose is to study the game plays from various dev. groups.
-> Some organizations and producers may be controversial, this document is for learning and exchange purposes only.
+> Some organizations and producers may be controversial, this document is for learning and communication purposes only.
 
 ---
 

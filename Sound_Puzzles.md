@@ -28,4 +28,12 @@ This repo is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpar
 提示：不自然的声音和结尾闪烁的频谱图
 </br></br>
 
+*Example*</br>
+*Retrieved from: Game Theory: Doki Doki Decoded! (Doki Doki Literature Club)*</br>
 
+将sayori.chr后缀更改为.ogg，可以发现它是一个无序的白噪音音频。使用频谱软件查看，可以发现一个网页的二维码。
+![dlc_ogg](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/dlc_ogg1.png) 
+![dlc_ogg](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/dlc_ogg2.png) 
+![dlc_ogg](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/dlc_ogg3.png) 
+![dlc_ogg](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/dlc_ogg4.png) 
+</br></br>

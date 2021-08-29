@@ -37,3 +37,22 @@ This repo is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpar
 ![dlc_ogg](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/dlc_ogg3.png) 
 ![dlc_ogg](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/dlc_ogg4.png) 
 </br></br>
+
+
+## 3. 双音多频信号
+*Retrieved from: [Wikipedia - Dual-tone multi-frequency signaling](https://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling)*</br>
+双音多频的拨号键盘是4×4的矩阵，每一行代表一个高频，每一列代表一个低频。每按一个键就发送一个高频和低频的正弦信号组合，比如'1'相当于697和1209赫兹（Hz）。交换机可以解码这些频率组合并确定所对应的按键。注意：ABCD四个字母并不使用于拨号键盘，但常做为机器对机器的控制信号，例如DTMF格式的来话显示。</br>
+　|1209 Hz|1336 Hz|1477 Hz|1633 Hz
+-|-----|------|------|------
+697 Hz|1|2|3|A
+770 Hz|4|5|6|B
+852 Hz|7|8|9|C
+941 Hz|\*|0|#|D
+
+*Example*</br>
+*Retrieved from: 好和弦，把秘密訊息偷偷藏入音樂中！*</br>
+
+使用频谱分析仪对照DTMF表可以获得拨号数字
+![NiceChord_DTMF](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/NiceChord_DTMF1.png)
+![NiceChord_DTMF](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/NiceChord_DTMF2.png)
+</br></br>

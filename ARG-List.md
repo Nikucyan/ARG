@@ -126,6 +126,12 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 > - 好和弦，[【偵探遊戲】藏在聲音中的秘密！你能破解密碼、揪出兇手嗎？](https://www.youtube.com/watch?v=wwyi3jh-eFs)
 > - 好和弦，[把秘密訊息偷偷藏入音樂中！](https://www.youtube.com/watch?v=a5hAVTXjjEc)
 
+
+
+### 17. TieBa  密码吧
+
+> - HighnessC，[求救，我已经快想爆了。](https://tieba.baidu.com/f?kz=529691897&red_tag=0476462504)
+
 ---
 
 ## Our Own Works

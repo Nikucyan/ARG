@@ -3,6 +3,7 @@
 This repo is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpara](https://github.com/bdcformpara).
   
 > This document will record some puzzles related to sound or music
+> 说到底，一切都是隐写术 (Steganography)
 ---
 </br></br>
 

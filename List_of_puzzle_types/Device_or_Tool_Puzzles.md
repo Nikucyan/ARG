@@ -33,6 +33,7 @@ G Z G T G O G X N C S
 
 ## 2. 乐谱电脑键盘
 *Retrieved from: 春&夏事件簿(ハルチカ”シリーズ)动画版第一集后半部分*</br>
+
 将QWE键盘（其实什么键盘都行，主要是要有所谓的对应的密码本）每一行看成从do到升mi的key， (e.g. Q → do, W → re, ..., P → mi) ， 将指法（1，2，3）看成键盘上的行数（第几行），进行加密解密</br>
 ![chunyuxia](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/chunyuxia.png)
 

@@ -1,8 +1,8 @@
-# 声音类谜题
+# 声音或音乐类谜题
 
 This repo is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpara](https://github.com/bdcformpara).
   
-> This document will record some puzzles related to sound
+> This document will record some puzzles related to sound or music
 ---
 </br></br>
 
@@ -56,3 +56,12 @@ This repo is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpar
 ![NiceChord_DTMF](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/NiceChord_DTMF1.png)
 ![NiceChord_DTMF](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/NiceChord_DTMF2.png)
 </br></br>
+
+
+## 4. 赋格的艺术
+*Retrieved from: [豆瓣音乐 - 赋格的艺术](https://music.douban.com/review/5335783/)*</br>
+*Retrieved from: [Wikipedia - 音名](https://zh.wikipedia.org/wiki/%E9%9F%B3%E5%90%8D)*</br>
+巴赫用`降si la do 还原si`表示自己的名字 BACH </br>
+其实就是使用**音名**来表达信息，中国现代惯用`C D E F G A B`来表示`do re mi fa so la si`，但是德国会用`H`来表示`si`。注意，德国还有三个特例：`降E`用`es`、`降A`用`as`、降`H`用`B`。
+</br></br>
+

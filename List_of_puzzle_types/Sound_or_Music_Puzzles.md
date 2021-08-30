@@ -66,3 +66,11 @@ This repo is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpar
 其实就是使用**音名**来表达信息，中国现代惯用`C D E F G A B`来表示`do re mi fa so la si`，但是德国会用`H`来表示`si`。注意，德国还有三个特例：`降E`用`es`、`降A`用`as`、降`H`用`B`。
 </br></br>
 
+
+## 5. ASCII与PCM编码
+*Retrieved from: [Github - kylophone/ascii-audio](https://github.com/kylophone/ascii-audio)*</br>
+Generates PCM audio from an ASCII string. Text is visible on the spectrogram image. </br>
+![ascii_pcm](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/ascii_pcm.png)
+</br></br>
+
+

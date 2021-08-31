@@ -17,7 +17,7 @@ This repo is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpar
 </br></br>
 
 *Example*</br>
-*Retrieved from: [wxwoo's blog，Nazo_Game 攻略](https://wxwoo.blog.luogu.org/nazo-game-guide)* </br>
+*Retrieved from: wxwoo's blog，[Nazo_Game 攻略](https://wxwoo.blog.luogu.org/nazo-game-guide)* </br>
 
 level-11 </br>
 由于此题，google 搜索已经受到污染 </br>

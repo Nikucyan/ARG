@@ -6,7 +6,7 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 > Some organizations and producers may be controversial, this document is for learning and communication purposes only.
 
 
-![Cover](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/ARG.png)
+![Cover](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/ARG_new.png)
 
 </br>
 

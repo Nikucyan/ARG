@@ -7,7 +7,7 @@ This repo is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpar
 The document `ARG-List.md` should be written in a standard markdown format. The main lang. is Chinese.
 
 
-![Cover](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/ARG.png)
+![Cover_new](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/ARG.png)
 
 </br>
 

@@ -2,9 +2,9 @@
 
 This repo is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpara](https://github.com/bdcformpara).
 
-> This is an ARG list organizing some interesting ARGs (Alternate Reality Game) around the world. The main purpose is to study the game plays from various dev. groups. Some organizations and producers may be controversial, this document is for learning and exchange purposes only.
+> This is an ARG list collecting some interesting ARGs (Alternate Realsity Games) around the world. The main purpose is to study the game plays from various dev. groups. Some organizations and producers may be controversial, this document is for learning and exchange purposes only.
 
-The document `ARG-List.md` should be written in a standard markdown format.The main lang. is Chinese.
+The document `ARG-List.md` should be written in a standard markdown format. The main lang. is Chinese.
 
 
 ![Cover](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/ARG.png)

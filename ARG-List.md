@@ -5,8 +5,10 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 > This is an *ARG list* recording some of the interesting ARGs (Argumented Reality Games) around the world. The main purpose is to study the game plays from various dev. groups.
 > Some organizations and producers may be controversial, this document is for learning and communication purposes only.
 
----
 
+![Cover](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/ARG.png)
+
+</br>
 
 
 ## Game List

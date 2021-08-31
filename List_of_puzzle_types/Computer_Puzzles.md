@@ -26,5 +26,6 @@ level-11 </br>
 但 Nazo_Game 1.0 时这关的字符串是 zNGQXChu9P8 </br>
 而越过长城，走向世界的真实含义就是翻墙了 </br>
 正解： google 搜索 zNGQXChu9P8 </br>
+
 ![nazo_game_level_11](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/nazo_game_level_11.png)
 </br></br>

@@ -79,8 +79,8 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 
 ### 10. Arknights  明日方舟
 
-> - [给博士——一封来自″CLOSURE″的隐秘信件](https://weibo.com/ttarticle/p/show?id=2309404301562762634017)
-> - [GEH BIS MORGEN——″明日方舟″CP23 笔记本彩蛋](https://weibo.com/ttarticle/p/show?id=2309404318300371835819)
+> - [给博士——一封来自 ″CLOSURE″ 的隐秘信件](https://weibo.com/ttarticle/p/show?id=2309404301562762634017)
+> - [GEH BIS MORGEN——″明日方舟″ CP23 笔记本彩蛋](https://weibo.com/ttarticle/p/show?id=2309404318300371835819)
 > - [叙拉古的科希亚](https://weibo.com/ttarticle/p/show?id=2309404323328948061119)
 > - [穿孔纸带——时尚杂志和企鹅包裹](https://weibo.com/ttarticle/p/show?id=2309404357177790832975)
 > - [Welcome home again, doctor](https://weibo.com/ttarticle/p/show?id=2309404371948716096752)
@@ -137,7 +137,7 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 ---
 
 ## Our Own Works
- 
+
 ### ARG in MKG
 
 > - [ARG与我的游戏旅程 ( 中 ) - YesterMorrow](https://mp.weixin.qq.com/s/d4PPhiBVGXUSqctij_c77g)
@@ -148,5 +148,4 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 
 - [四角号码在线查询](https://msijiao.911cha.com/)
 - [Game Detectives Wiki](https://wiki.gamedetectives.net/)
-
 

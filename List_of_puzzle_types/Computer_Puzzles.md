@@ -31,7 +31,7 @@ level-11 </br>
 </br></br>
 
 
-## 2. 编码
+## 2. 编码间转化
 通过不同编码之间的转换，来达成加密的效果。注意：由于utf-8的特殊性，有些其它编码的字符用utf-8编码会出错。 </br>
 *Retrieved from: 木林森淼，[UTF-8与GBK互转，为什么会乱码](https://blog.csdn.net/yangfengjueqi/article/details/79486162)* </br>
 

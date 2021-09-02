@@ -35,20 +35,20 @@ level-11 </br>
 通过不同编码之间的转换，来达成加密的效果。注意：由于utf-8的特殊性，有些其它编码的字符用utf-8编码会出错。 </br>
 *Retrieved from: 木林森淼，[UTF-8与GBK互转，为什么会乱码](https://blog.csdn.net/yangfengjueqi/article/details/79486162)* </br>
 
-*Example*</br>
-*Retrieved from: 变态人生欢乐多，[A站ARG - 方枝联动解谜活动 - 凿饮](https://www.acfun.cn/a/ac21015884?)* </br>
-
-谜面： </br>
-璇峰湪瀵嗗皝绾垮唴浣滅瓟、鍑块ギ
-
-谜底： </br>
-请在密封线内作答、凿饮
-
-解谜过程： </br>
-两段乱码一般的谜面其实是由UTF-8编码的谜底转换为GBK编码后得到的文字。反过来将谜面从GBK编码转换为UTF-8编码即可得到原文，分别为“请在密封线内作答”、“凿饮”。
-
 尝试过通过word和纯文本 (plain text, txt) ，之间的转换来进行编码的转化，暂不成功。</br>
 *Retrieved from: Microsoft，[在打开和保存文件时选择文本编码](https://support.microsoft.com/zh-cn/office/%E5%9C%A8%E6%89%93%E5%BC%80%E5%92%8C%E4%BF%9D%E5%AD%98%E6%96%87%E4%BB%B6%E6%97%B6%E9%80%89%E6%8B%A9%E6%96%87%E6%9C%AC%E7%BC%96%E7%A0%81-60d59c21-88b5-4006-831c-d536d42fd861)* 
 
 **？（待解决）** 可能必须需要代码才能进行编码上的转化，还是说有其它简易方法
+
+*Example*</br>
+*Retrieved from: 变态人生欢乐多，[A站ARG - 方枝联动解谜活动 - 凿饮](https://www.acfun.cn/a/ac21015884?)* </br>
+
+**谜面：** </br>
+璇峰湪瀵嗗皝绾垮唴浣滅瓟、鍑块ギ
+
+**谜底：** </br>
+请在密封线内作答、凿饮
+
+**解谜过程：** </br>
+两段乱码一般的谜面其实是由UTF-8编码的谜底转换为GBK编码后得到的文字。反过来将谜面从GBK编码转换为UTF-8编码即可得到原文，分别为“请在密封线内作答”、“凿饮”。
 </br></br>

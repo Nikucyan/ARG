@@ -114,7 +114,11 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 
 ### 14. Six-step Mystery  六阶谜题
 
-待补充
+已完工 [点击此处跳转](https://github.com/Nikucyan/ARG/blob/main/Game_List/ARG-Six-step_Mistery.md)
+
+> - Steam, [六阶谜题](https://store.steampowered.com/app/1164000/_sixstep_mystery/)
+
+
 
 
 ### 15. Yixi  一席 - 一切皆可游戏 (2020.06.07)
@@ -134,6 +138,8 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 
 > - HighnessC，[求救，我已经快想爆了。](https://tieba.baidu.com/f?kz=529691897&red_tag=0476462504)
 
+</br>
+
 ---
 
 ## Our Own Works
@@ -141,6 +147,8 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 ### ARG in MKG
 
 > - [ARG与我的游戏旅程 ( 中 ) - YesterMorrow](https://mp.weixin.qq.com/s/d4PPhiBVGXUSqctij_c77g)
+
+</br>
 
 ---
 

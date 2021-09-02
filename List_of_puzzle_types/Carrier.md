@@ -14,7 +14,7 @@ This repo is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpar
 *Retrieved from: 变态人生欢乐多，[A站ARG - 方枝联动解谜活动 - 凿饮](https://www.acfun.cn/a/ac21015884?)* </br>
 
 第一阶段 - 蒙住眼睛的人 </br>
-在站内搜索 ulmuspumila 会找到一个同名 up，以及其唯一的一个视频投稿 ac20014576。在视频第 8 分钟时出现字母谜面，使用五笔输入法可得“捡起这把钥匙继续前进吧”。在该视频评论区 1L 里 up 所说“可以缓存”也是一句提示，视频的缓存名为 480s，可得知字母谜面出现在第 8 分钟。
+在站内搜索 ulmuspumila 会找到一个同名 up，以及其唯一的一个视频投稿 [ac20014576](https://www.acfun.cn/v/ac20014576)。在视频第 8 分钟时出现字母谜面，使用五笔输入法可得“捡起这把钥匙继续前进吧”。在该视频评论区 1L 里 up 所说“可以缓存”也是一句提示，视频的缓存名为 480s，可得知字母谜面出现在第 8 分钟。
 </br></br>
 
 

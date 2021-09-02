@@ -138,6 +138,12 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 
 > - HighnessC，[求救，我已经快想爆了。](https://tieba.baidu.com/f?kz=529691897&red_tag=0476462504)
 
+
+
+### 18. bilibili  2018拜年祭
+
+> - 知乎，[Bilibili2018拜年祭卦象谜题破解过程（来源于贴吧）](https://zhuanlan.zhihu.com/p/33839675)
+
 </br>
 
 ---

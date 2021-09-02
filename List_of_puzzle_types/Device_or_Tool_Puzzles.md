@@ -48,16 +48,4 @@ la(1) 升re(1) si(1) so(1) la(2) re(2) </br>
 youths
 </br></br>
 
-## 3. 快递柜
-### 寄存快递
-### 霸屏
-公众号 → 霸屏</br>
-![fengchao](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/fengchao.png)
-</br></br>
-
-
-## 4. 电台
-![radio_station](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/radio_station1.png)
-![radio_station](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/radio_station2.png)
-</br></br>
 

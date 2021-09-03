@@ -164,3 +164,10 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 - [四角号码在线查询](https://msijiao.911cha.com/)
 - [Game Detectives Wiki](https://wiki.gamedetectives.net/)
 
+</br>
+
+---
+
+## Type List
+
+ 

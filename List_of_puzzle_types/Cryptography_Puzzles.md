@@ -11,7 +11,7 @@ This repo is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpar
 通过矩阵内元素的移除或者说是筛选，获得正确有序的密文。
 
 *Example* </br>
-*Retrieved from: [ARG - Six-step Mistery 六阶谜题 (2020.4.24)](https://github.com/Nikucyan/ARG/edit/main/Game_List/ARG-Six-step_Mistery.md)* </br>
+*Retrieved from: [ARG - Six-step Mistery 六阶谜题 (2020.4.24)](https://github.com/Nikucyan/ARG/blob/main/Game_List/ARG-Six-step_Mistery.md)* </br>
 
 剧情上，李郁和夏岚给了男主一张卡片希望男主帮她们破解谜题（无附加线索），男主选择向邬娅求助（为前作《[**七人杀阵**](https://store.steampowered.com/app/885140/__Seven_Sacrifices)》谜题，本作给出解答，不需要玩家自己求解）
 

@@ -17,6 +17,12 @@ This repo is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpar
 </br></br>
 
 *Example*</br>
+根据图片上发布者的微博id，去翻该发布者的微博相册，可以找到相对应的发布时间和与图片同时发布的配文，有可能是线索。 </br>
+
+![computer_puzzles_example1](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/computer_puzzles_example1.png)
+</br></br>
+
+*Example*</br>
 *Retrieved from: wxwoo's blog，[Nazo_Game 攻略](https://wxwoo.blog.luogu.org/nazo-game-guide)* </br>
 
 level-11 </br>

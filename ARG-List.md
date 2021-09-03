@@ -143,6 +143,7 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 ### 18. bilibili  2018拜年祭
 
 > - 知乎，[Bilibili2018拜年祭卦象谜题破解过程（来源于贴吧）](https://zhuanlan.zhihu.com/p/33839675)
+> - Bilibili 官方，[【哔哩哔哩2018拜年祭】](https://www.bilibili.com/video/BV1eW411Y7Gz)
 
 </br>
 

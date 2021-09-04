@@ -10,7 +10,9 @@
 
 三垣二十八宿（四象）的星官名以丹元子《[步天歌](https://www.lcsd.gov.hk/CE/Museum/Space/archive/Research/Literature/c_research_literature_9.htm)》（唐·王夕明）为准，有 283 星官。
 
-![Suzhou star cartography](https://upload.wikimedia.org/wikipedia/commons/9/91/Suzhou_star_cartography.jpg)
+![Suzhou star cartography](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/astro_Suzhou_star_cartography.jpg)
+
+> 苏州文庙保存的宋代石刻天文图
 
 - **Enclosures 三垣**：“[三垣](https://zh.wikipedia.org/wiki/三垣)” 是最晚形成的星区概念，皆有东西两藩的星，即围绕宫室的墙垣，故又可称为 “宫”。紫微垣位於北天极附近，相等于拱极星，是天上的皇宫，由天帝居住的地方。太微垣是天上的朝廷，是天帝及大臣工作的地方。天市垣是天上的街市，是平民活动的地方。<sup id="a1">[[1]](#f1)</sup>
 
@@ -24,23 +26,58 @@
   | ------------------------ | ----------------------- | --------------------------- | -------------------------- |
   | Azure Dragon of the East | White Tiger of the West | Vermilion Bird of the South | Murky Warrior of the North |
 
-- **Lunar mansions 二十八宿**：指日月星辰的住所。月亮绕地球公转，绕行一周为 27.33 日。其每一天所在的那片恒星就被看成是月亮当天歇息的驿站，因此这些恒星就被分成 27 或 28 个星座。<sup id="a2">[[2]](#f2)</sup> 战国时期，二十八宿已经作为一个赤道坐标系统被建立起来，以天赤道为平面，以赤经（“入宿度”）、赤纬（“去极度”）定位天体位置。这样用来比较和计算赤经的标准星称为 “距星”，共计二十八颗，其所属的星座就是二十八宿。距星和距星之间的赤经差称为 “距度”。<sup id="a3">[[3]](#f3)</sup> 
+- **Lunar mansions 二十八宿**：指日月星辰的住所。月亮绕地球公转，绕行一周为 27.33 日。其每一天所在的那片恒星就被看成是月亮当天歇息的驿站，因此这些恒星就被分成 27 或 28 个星座。<sup id="a2">[[2]](#f2)</sup> 战国时期，二十八宿已经作为一个赤道坐标系统被建立起来，以天赤道为平面，以赤经（“入宿度”）、赤纬（“去极度”）定位天体位置。这样用来比较和计算赤经的标准星称为 “距星”，共计二十八颗，其所属的星座就是二十八宿。距星和距星之间的赤经差称为 “距度”（属于球坐标系）。<sup id="a3">[[3]](#f3)</sup> 
 
-  | 东方七宿 |   角 | 亢 | 氐 | 房 | 心 | 尾 | 箕   |
+  ![Mansions](https:/cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/astro_Twenty-eight_mansions.jpg)
+  
+  > Attribution: [柄沢照覚（柄澤照覺）](https://viaf.org/viaf/1396701/), Public domain, via Wikimedia Commons
+  
+  | 东方七宿 |   角 | 亢 | 氐 (dī) | 房 | 心 | 尾 | 箕   |
   | -------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
   | Mansions of the East | Horn | Neck | Root | Room | Heart | Tail | Winnowing-basket |
-  | **北方七宿** |   **斗**   | **牛**  | **女**  | **虛**  |   **危**   |   **室**   | **壁** |
+  | **北方七宿** |   **斗 (dǒu)**   | **牛**  | **女**  | **虛**  |   **危**   |   **室**   | **壁** |
   | Mansions of the North | Dipper | Ox | Girl | Emptiness | Rooftop | Encampment | Wall |
   | **西方七宿** | **奎**  | **娄** |   **胃**   |   **昴**   |   **毕**   | **觜 (zī)** | **参 (shēn)** |
   | Mansions of the West | Legs | Bond | Stomach | Hairy Head | Net | Turtle Beak | Three Stars |
   | **南方七宿** |   **井**   | **鬼**  |   **柳**   |   **星**   |   **张**   |   **翼**   | **轸 (zhěn)  ** |
   | Mansions of the South | Well | Ghosts | Willow | Star | Extended Net | Wings | Chariot |
   
-- 二十八宿与分野：中国古人依照某种特定对应关系来划分地域，称为 “分野” <sup id="a4">[[4]](#f4)</sup>，将星象方位与地理方位对应，体现了中国古人有天文与地理相似的思想（但后来可能变为纯粹形式化联系，与天文学相去甚远）<sup id="a6">[[2]](#f6)</sup><sup id="a5">[[5]](#f5)</sup>。《开元占经》中纪录：
+  ![Chinese Traditional Equatorial Coordinate System](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/astro_Chinese_traditional_equatorial_coordinate_system.png) 
+  
+  > 中国传统天球赤道坐标系	Attribution: [三猎, CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
+  
+- 二十八宿与**分野**：中国古人依照某种特定对应关系来划分地域，称为 “分野” <sup id="a4">[[4]](#f4)</sup>，将星象方位与地理方位对应，体现了中国古人有天文与地理相似的思想（但后来可能变为纯粹形式化联系，与天文学相去甚远）<sup id="a6">[[2]](#f6)</sup><sup id="a5">[[5]](#f5)</sup>。《开元占经》（唐）<sup id="a7">[[6]](#f7)</sup> 中记载：
+
+  | 分星       | 角亢 | 氐房心 | 尾箕 | 斗牛 | 女虚 | 危室壁 | 奎娄 | 胃昴 | 毕觜参 | 井鬼 | 柳星张 | 翼轸 |
+  | ---------- | ---- | ------ | ---- | ---- | ---- | ------ | ---- | ---- | ------ | ---- | ------ | ---- |
+  | **十二辰** | 辰   | 卯     | 寅   | 丑   | 子   | 亥     | 戌   | 酉   | 申     | 未   | 午     | 巳   |
+  | **分野国** | 郑   | 宋     | 燕   | 吴越 | 齐   | 卫     | 鲁   | 赵   | 魏     | 秦   | 周     | 楚   |
+
+- **禽星**：（与风水学的联系）和[七曜](https://zh.wikipedia.org/wiki/%E4%B8%83%E6%94%BF)、动物相配以推算人的命禄吉凶，合称 “禽星” <sup id="a71">[[7]](#f71)</sup><sup id="a8">[[8]](#f8)</sup>
+
+  > 七曜：下表中前五个都是行星，合称五星（五曜）；加上日月合称七星（七曜）。日月之外的五个天体也能用肉眼观察到，中国古代以[五行](https://zh.wikipedia.org/wiki/五行)之说的 “火水木金土” 指涉这五个行星。
+  >
+  > | 荧惑星       | 辰星         | 岁星         | 太白星       | 镇星         | 太阳星       | 太阴星       |
+  > | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+  > | 火星         | 水星         | 木星         | 金星         | 土星         | 日           | 月           |
+  > | 二（火曜日） | 三（水曜日） | 四（木曜日） | 五（金曜日） | 六（土曜日） | 日（日曜日） | 一（月曜日） |
+  >
+  > 在日本和朝鲜半岛仍然使用七曜作为星期称呼
+  >
+  > -- 维基百科，七政（七曜）
+
+  |      | 木   | 金   | 土   | 日   | 月   | 火   | 水   |
+  | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+  | 东宫 |      |      |      |      |      |      |      |
+  | 北宫 |      |      |      |      |      |      |      |
+  | 西宫 |      |      |      |      |      |      |      |
+  | 南宫 |      |      |      |      |      |      |      |
+
+  > 在我国古代神话小说中亦有大量与禽星相关的设定，如《西游记》中就有二十八星宿
+  >
+  > 另外游戏科学于 2021 年 8 月份释出的《黑神话·悟空》Unreal Engine 5 测试实机演示中，猴子一开始在室内变化作的雕像（<u>室火猪</u>）、在外的巨大雕像（<u>亢金龙</u>），皆设计取材自山西省晋城市玉皇庙，推测塑自元代，或由大雕塑家刘元（刘銮）塑造 <sup id="a9">[[9]](#f9)</sup>；其他场景也存在在后半程对战的龙也被推测为<u>亢金龙</u>・龙形态。
 
   
-
-- 与道教二十八星宿的联系
 
 
 
@@ -69,4 +106,12 @@
 <span id="f5">5. [^](#a5)</span> 刘俊男。上古星宿与地域对应之科学性考释。农业考古. 2008, (01): 234-243.
 
 <span id="f7">6. [^](#a7)</span> 唐・瞿昙悉达，[唐開元占經（四庫全書本）/ 卷 064](https://zh.wikisource.org/wiki/%E5%94%90%E9%96%8B%E5%85%83%E5%8D%A0%E7%B6%93_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)/%E5%8D%B7064)
+
+<span id="f71">7. [^](#a71)</span> 古健青 (编). 中国方术大辞典。广州：中山大学出版社. 1991. [ISBN 7-306-00313-5](https://zh.wikipedia.org/wiki/Special:网络书源/7-306-00313-5).
+
+<span id="f8">8. [^](#a8)</span> 黄金贵 (编). 中国古代文化会要。杭州：西泠印社出版社. 2007. [ISBN 978-7-80735-159-7](https://zh.wikipedia.org/wiki/Special:网络书源/978-7-80735-159-7).
+
+<span id="f9">9. [^](#a9)</span> Henry 老张，极客湾，[游戏时报 | 解析《黑神话 悟空》最新PV，今天你悟了嘛？](https://mp.weixin.qq.com/s/l4966R0Lf5GgyqwyF9J_ew)
+
+
 

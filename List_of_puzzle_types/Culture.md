@@ -8,7 +8,7 @@ This repo is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpar
 
 
 ## 1. 汉学 (sinology)
-### 1.1 数字别称
+### 1.1 数字
 一二三四五六七八九十
 #### 宋代
 *Retrieved from: 《绮谈市语·数目门》* </br>
@@ -30,6 +30,12 @@ This repo is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpar
 **通讯兵**：幺、两、三、四、五、六、拐、八、勾、洞 </br>
 *Retrieved from: 百度百科，[黑话](https://bkso.baidu.com/item/%E9%BB%91%E8%AF%9D)* </br>
 **旧江湖**：一称流、二称月、三称汪、四称则、五称中、六称神、七称心、八称张、九称爱、十称足、百称尺、千称丈、万称方、元称皮锦、毫称星、金子称黄，江相派。 
+#### 苏州码子
+*Retrieved from: Wikipedia，[苏州码子](https://zh.wikipedia.org/wiki/%E8%8B%8F%E5%B7%9E%E7%A0%81%E5%AD%90)* </br>
+#### 算筹
+*Retrieved from: Wikipedia，[算筹](https://zh.wikipedia.org/wiki/%E7%AE%97%E7%AD%B9)* </br>
+#### 中文数字
+*Retrieved from: Wikipedia，[中文数字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%96%87%E6%95%B0%E5%AD%97)* </br>
 </br></br>
 
 

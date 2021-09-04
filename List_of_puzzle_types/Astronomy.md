@@ -42,7 +42,7 @@
   | **南方七宿** |   **井**   | **鬼**  |   **柳**   |   **星**   |   **张**   |   **翼**   | **轸 (zhěn) ** |
   | Mansions of the South | Well | Ghosts | Willow | Star | Extended Net | Wings | Chariot |
   
-  ![Chinese Traditional Equatorial Coordinate System](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/astro_Chinese_traditional_equatorial_coordinate_system.png) 
+  ![Chinese Traditional Equatorial Coordinate System](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/astro_Chinese_traditional_equatorial_coordinate_system.png)
   
   > 中国传统天球赤道坐标系	Attribution: [三猎, CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
   

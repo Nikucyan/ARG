@@ -74,6 +74,7 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 ### 9. Cyberpunk 2077  赛博朋克 2077
 
 > - 月尘AshfromMOON，机核，[《赛博朋克2077》最新ARG现实解密游戏流程谜题详解](https://www.gcores.com/videos/122804)
+> - tukana，其乐，[《Cyberpunk 2077》2018-2020年期間ARG謎題破解過程全整理](https://keylol.com/t639041-1-1)
 
 
 
@@ -161,8 +162,19 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 
 ## Freq. Used
 
-- [四角号码在线查询](https://msijiao.911cha.com/)
 - [Game Detectives Wiki](https://wiki.gamedetectives.net/)
+- [wh1t3p1g - ctf古典密码集合](https://gist.github.com/wh1t3p1g/ffd15270914492491e18ff9f070eab2b)
+- [在线工具](https://tool.lu/)
+- [Bugku-Tool](https://tool.bugku.com/)
+- [JSON 在线工具箱](https://www.sojson.com/encrypt/)
+- [站长工具](https://ntool.chinaz.com/tools/nav)
+- [与佛论禅](https://www.keyfc.net/bbs/tools/tudoucode.aspx)
+- [【土豆星文化推广】手把手教你用土豆文【配星歌】](https://www.keyfc.net/bbs/showtopic-25834.aspx)
+- [四角号码在线查询](https://msijiao.911cha.com/)
+- [百度地图拾取坐标系统](http://api.map.baidu.com/lbsapi/getpoint/index.html)
+- [生成条码](https://barcode.tec-it.com/zh/Code128?data=ABC-abc-1234)
+- [草料二维码](https://cli.im/)
+
 
 </br>
 

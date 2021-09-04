@@ -39,7 +39,7 @@
   | Mansions of the North | Dipper | Ox | Girl | Emptiness | Rooftop | Encampment | Wall |
   | **西方七宿** | **奎**  | **娄** |   **胃**   |   **昴**   |   **毕**   | **觜 (zī)** | **参 (shēn)** |
   | Mansions of the West | Legs | Bond | Stomach | Hairy Head | Net | Turtle Beak | Three Stars |
-  | **南方七宿** |   **井**   | **鬼**  |   **柳**   |   **星**   |   **张**   |   **翼**   | **轸 (zhěn) ** |
+  | **南方七宿** |   **井**   | **鬼**  |   **柳**   |   **星**   |   **张**   |   **翼**   | **轸 (zhěn)** |
   | Mansions of the South | Well | Ghosts | Willow | Star | Extended Net | Wings | Chariot |
   
   ![Chinese Traditional Equatorial Coordinate System](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/astro_Chinese_traditional_equatorial_coordinate_system.png)

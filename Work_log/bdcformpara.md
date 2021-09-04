@@ -2,7 +2,7 @@
 ---
 
 ### 2021.09.04
-- 对 [ARG List](https://github.com/Nikucyan/ARG/blob/main/ARG-List.md) 内`Cyberpunk 2077 赛博朋克 2077`，`Freq. Used`进行*补充*
+- 对 [ARG List](https://github.com/Nikucyan/ARG/blob/main/ARG-List.md) 内`Cyberpunk 2077 赛博朋克 2077`，`Freq. Used`条目进行*补充*
 ### 2021.09.03
 - *新增* [bdcformpara的工作日志](https://github.com/Nikucyan/ARG/blob/main/Work_log/bdcformpara.md)
 - 在 [project - ARG 补完计划](https://github.com/Nikucyan/ARG/projects/1#card-68087383) 里*增加* 两个正在进行任务：`A站 ARG 谜题分类`，`增加图片类谜题`

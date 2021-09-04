@@ -60,4 +60,27 @@ level-11 </br>
 </br></br>
 
 
+## Alt Code
+*Retrieved from: Wikipedia，[Alt码](https://zh.wikipedia.org/wiki/Alt%E7%A0%81)，[Alt code](https://en.wikipedia.org/wiki/Alt_code)* </br>
+Alt码（Alt code）即在IBM兼容个人电脑上，许多字符没有直接对应的按键，此时就可通过Alt-数字键盘输入法（Alt码）输入，方法是按住Alt键再通过数字键区输入字符代码。 </br>
+可以通过十进制的方式输入[ASCII](https://zh.wikipedia.org/wiki/ASCII)，[Unicode](https://zh.wikipedia.org/wiki/Unicode%E5%AD%97%E7%AC%A6%E5%88%97%E8%A1%A8)（[Unicode 也可以通过十六进制输入](https://zh.wikipedia.org/wiki/Unicode%E8%BE%93%E5%85%A5%E6%B3%95)），[GBK](https://www.qqxiuzi.cn/bianma/zifuji.php)
 
+**注意**
+- windows 系统进行该操作时，如果要输入 GBK 编码内容（也即中文），则需要切换输入法为 ENG
+- 不同编辑器因为使用的编码不同，可能会有不同的显示内容，甚至不同的字体也可能会出现编码不同的问题。比如 txt 和 word ，word 内不同字体
+
+*Example* </br>
+按紧`Alt键`，然后在小键盘输入`50403`，松开`Alt键`，屏幕上就会显示`你`。
+
+![GBK](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/GBK.png)
+</br></br>
+
+*Example* </br>
+*Retrieved from: [ARG与我的游戏旅程 ( 中 ) - YesterMorrow](https://mp.weixin.qq.com/s/d4PPhiBVGXUSqctij_c77g)* </br>
+
+> WORD </br>
+> Alt + Numeric keypod </br>
+> 71 97 109 101 32 83 116 945 114 116 0160 9734
+
+![alt_code](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/alt_code.png)
+</br></br>

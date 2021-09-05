@@ -44,13 +44,19 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 
 
 
-### 5. Overwatch  守望先锋
+### 5. Detention 返校
+
+待补充
+
+
+
+### 6. Overwatch  守望先锋
 
 > - https://space.bilibili.com/7936287/  ?
 
 
 
-### 6. Paperclip  回形针 Vol. 100 (2019.11)
+### 7. Paperclip  回形针 Vol. 100 (2019.11)
 
 已完工 [点击此处跳转](https://github.com/Nikucyan/ARG/blob/main/Game_List/ARG-Paperclip.md)
 
@@ -59,26 +65,26 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 
 
 
-### 7. Nazo Game
+### 8. Nazo Game
 
 > - Game Main Page: [Nazo Game](https://nazo.one-story.cn/)
 
 
 
-### 8. 故宫 ARG
+### 9. 故宫 ARG
 
 > - 我是怪异君，[故宫寻宝记！《如意琳琅图籍》线下解谜体验！【点到为止13】](https://www.bilibili.com/video/BV1hb411s7Kb)
 
 
 
-### 9. Cyberpunk 2077  赛博朋克 2077
+### 10. Cyberpunk 2077  赛博朋克 2077
 
 > - 月尘AshfromMOON，机核，[《赛博朋克2077》最新ARG现实解密游戏流程谜题详解](https://www.gcores.com/videos/122804)
 > - tukana，其乐，[《Cyberpunk 2077》2018-2020年期間ARG謎題破解過程全整理](https://keylol.com/t639041-1-1)
 
 
 
-### 10. Arknights  明日方舟
+### 11. Arknights  明日方舟
 
 > - [给博士——一封来自 ″CLOSURE″ 的隐秘信件](https://weibo.com/ttarticle/p/show?id=2309404301562762634017)
 > - [GEH BIS MORGEN——″明日方舟″ CP23 笔记本彩蛋](https://weibo.com/ttarticle/p/show?id=2309404318300371835819)
@@ -95,25 +101,25 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 
 
 
-### 11. 古镜记
+### 12. 古镜记
 
 > - 藻起藻睡，游戏研究社，[40个陌生人历时120小时，通关了一款现实中的解谜游戏](https://mp.weixin.qq.com/s/3cN1glExKSs0yVgOMxhFSQ)       
 
 
 
-### 12. The Binding of Isaac  以撒的结合
+### 13. The Binding of Isaac  以撒的结合
 
 > - 闻香识，[带你深入了解“以撒的结合ARG事件”](https://www.bilibili.com/video/BV1Ys411d7zG)
 
 
 
-### 13. AcFun  A 站
+### 14. AcFun  A 站
 
 > - 变态人生欢乐多，[A站ARG - 方枝联动解谜活动 - 凿饮](https://www.acfun.cn/a/ac21015884?)
 
 
 
-### 14. Six-step Mystery  六阶谜题
+### 15. Six-step Mystery  六阶谜题
 
 已完工 [点击此处跳转](https://github.com/Nikucyan/ARG/blob/main/Game_List/ARG-Six-step_Mistery.md)
 
@@ -122,26 +128,26 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 
 
 
-### 15. Yixi  一席 - 一切皆可游戏 (2020.06.07)
+### 16. Yixi  一席 - 一切皆可游戏 (2020.06.07)
 
 > - 徐奥林，[我决定做一些更夸张的尝试，比如能不能把北京上海的地铁改编成一个密室逃脱？| 徐奥林 一席第768位讲者](https://mp.weixin.qq.com/s/A7r_wkijVcJp5uKW1dMd7A)
 
 
 
-### 16. NiceChord  好和弦 - 偵探遊戲
+### 17. NiceChord  好和弦 - 偵探遊戲
 
 > - 好和弦，[【偵探遊戲】藏在聲音中的秘密！你能破解密碼、揪出兇手嗎？](https://www.youtube.com/watch?v=wwyi3jh-eFs)
 > - 好和弦，[把秘密訊息偷偷藏入音樂中！](https://www.youtube.com/watch?v=a5hAVTXjjEc)
 
 
 
-### 17. TieBa  密码吧
+### 18. TieBa  密码吧
 
 > - HighnessC，[求救，我已经快想爆了。](https://tieba.baidu.com/f?kz=529691897&red_tag=0476462504)
 
 
 
-### 18. bilibili  2018拜年祭
+### 19. bilibili  2018 拜年祭
 
 > - 知乎，[Bilibili2018拜年祭卦象谜题破解过程（来源于贴吧）](https://zhuanlan.zhihu.com/p/33839675)
 > - Bilibili 官方，[【哔哩哔哩2018拜年祭】](https://www.bilibili.com/video/BV1eW411Y7Gz)

@@ -6,7 +6,7 @@ Nikucyan
 
 ## 21.9.5
 
-摸了
+- Add `Detention 返校` in the `ARG-List.md`
 
 
 ## 21.9.4

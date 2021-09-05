@@ -46,13 +46,15 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 
 ### 5. Detention 返校
 
-待补充
+> -  [Light Wang](https://lightonelove.wordpress.com/author/lightonelove/)，[赤燭『返校』遊戲 ARG 大解密](https://lightonelove.wordpress.com/2017/01/09/%E6%96%B9%E6%96%B9%E3%84%89%E7%AA%A9%EF%BC%8C%E8%B5%A4%E7%87%AD%E3%80%8E%E8%BF%94%E6%A0%A1%E3%80%8F%E9%81%8A%E6%88%B2arg%E5%A4%A7%E8%A7%A3%E5%AF%86/)
+> -  遊戲角落 椿，[和赤燭聊聊《還願》的 ARG 遊玩人數超乎他們預期](https://game.udn.com/game/story/10453/3618814)
 
 
 
 ### 6. Overwatch  守望先锋
 
 > - https://space.bilibili.com/7936287/  ?
+> - Game Detective Wiki, [Sombra ARG](https://wiki.gamedetectives.net/index.php?title=Sombra_ARG)
 
 
 

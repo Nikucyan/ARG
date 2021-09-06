@@ -4,6 +4,12 @@ Nikucyan
 
 ---
 
+
+## 21.9.6
+
+摸了
+
+
 ## 21.9.5
 
 - Add section [Detention 返校](https://github.com/Nikucyan/ARG/blob/main/ARG-List.md#5-detention-%E8%BF%94%E6%A0%A1) in the [ARG-List.md](https://github.com/Nikucyan/ARG/blob/main/ARG-List.md)

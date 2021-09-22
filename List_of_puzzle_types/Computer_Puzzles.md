@@ -36,6 +36,9 @@ level-11 </br>
 ![nazo_game_level_11](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/nazo_game_level_11.png)
 </br></br>
 
+*Example*</br>
+比如提到某人喜欢哼一首歌，其中歌词似乎包含`人生的际遇，稍纵即逝`。搜索后发现这首歌是蔡琴的《机遇》，歌中的旁白提到了“台湾”。那么或许暗示这个唱歌的人，是个台湾人，平时使用注音拼音之类的。
+
 
 ## 2. 编码间转化
 通过不同编码之间的转换，来达成加密的效果。注意：由于utf-8的特殊性，有些其它编码的字符用utf-8编码会出错。 </br>

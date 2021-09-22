@@ -55,6 +55,15 @@ This repo is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpar
 </br></br>
 
 
+### 1.3 注音拼音
+*Retrieved from: Wikipedia，[注音符号](https://zh.wikipedia.org/zh-cn/%E6%B3%A8%E9%9F%B3%E7%AC%A6%E8%99%9F)* </br>
+大千式输入（最常见，Microsoft Windows也用这个） </br>
+![1200px-Keyboard_layout_Zhuyin](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/1200px-Keyboard_layout_Zhuyin.svg.png) </br>
+[中文到注音的转换](https://www.chineseconverter.com/zh-cn/convert/zhuyin)
+</br></br>
+
+
+
 ## 其它
 #### 印度-阿拉伯数字系统
 *Retrieved from: Wikipedia，[印度-阿拉伯数字系统](https://zh.wikipedia.org/wiki/%E5%8D%B0%E5%BA%A6-%E9%98%BF%E6%8B%89%E4%BC%AF%E6%95%B0%E5%AD%97%E7%B3%BB%E7%BB%9F)* </br>

@@ -43,5 +43,5 @@ This repo is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpar
 
 
 ## 6. 航班路线
-[flightradar24](www.flightradar24.com)
+[flightradar24](https://www.flightradar24.com/)
 </br></br>

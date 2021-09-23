@@ -1,6 +1,9 @@
 > This log will record the work done by [bdcformpara](https://github.com/bdcformpara).
 ---
 
+### 2021.09.22
+- [文化](https://github.com/Nikucyan/ARG/blob/main/List_of_puzzle_types/Culture.md) *新增条目*`注音拼音`
+- 为 [计算机类谜题](https://github.com/Nikucyan/ARG/blob/main/List_of_puzzle_types/Computer_Puzzles.md) 的`网络搜索`条目*新增* 一个例子
 ### 2021.09.05
 - *新增条目* [其它](https://github.com/Nikucyan/ARG/blob/main/List_of_puzzle_types/Others.md)
 - [其它](https://github.com/Nikucyan/ARG/blob/main/List_of_puzzle_types/Others.md) *新增条目*`铺垫辅助谜题`

@@ -49,7 +49,7 @@
 
 ![image-20211115203059355](https://cdn.jsdelivr.net/gh/Nikucyan/MD_IMG//img/image-20211115203059355.png)
 
-可以得到一串 GitHub 托管下的网址：`https://raw.githubusercontent.com/bdcformpara/arg/master/2.rar`
+可以得到一串 GitHub 托管下的[网址](https://raw.githubusercontent.com/bdcformpara/arg/master/2.rar)：`https://raw.githubusercontent.com/bdcformpara/arg/master/2.rar`
 
 这样我们就得到了第二个压缩文件。
 

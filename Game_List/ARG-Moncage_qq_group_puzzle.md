@@ -31,7 +31,7 @@
 
 补充一句作者的场外：
 
-<img src="https://cdn.jsdelivr.net/gh/Nikucyan/MD_IMG//img/{UKZ0RZH{@VS%{54}JMG{`O.jpg" alt="img" style="zoom:50%;" />
+![image-20211115224446758](https://cdn.jsdelivr.net/gh/Nikucyan/MD_IMG//img/image-20211115224446758.png)
 
 ## 压缩文件 1
 

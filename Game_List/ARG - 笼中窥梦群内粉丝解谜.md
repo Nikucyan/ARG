@@ -5,7 +5,7 @@
 
 ---
 
-11 月 15 日凌晨，笼中窥梦粉丝群内 Eureka 发起模仿官方的解谜活动，并附下图（名为 4MN-91Y-1VG.jpg），答案是 7 个汉字。
+11 月 15 日凌晨，笼中窥梦粉丝群内 Eureka（其实就是 [bdcformpara](https://github.com/bdcformpara)）发起模仿官方的解谜活动，并附下图（名为 4MN-91Y-1VG.jpg），答案是 7 个汉字。
 
 <img src="https://cdn.jsdelivr.net/gh/Nikucyan/MD_IMG//img/4MN-91Y-1VG.png" alt="4MN-91Y-1VG" style="zoom:67%;" />
 

@@ -1,5 +1,10 @@
 # ARG - 笼中窥梦群内粉丝解谜
 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 Unported License</a>.
+
+---
+
 11 月 15 日凌晨，笼中窥梦粉丝群内 Eureka 发起模仿官方的解谜活动，并附下图（名为 4MN-91Y-1VG.jpg），答案是 7 个汉字。
 
 <img src="https://cdn.jsdelivr.net/gh/Nikucyan/MD_IMG//img/4MN-91Y-1VG.png" alt="4MN-91Y-1VG" style="zoom:67%;" />

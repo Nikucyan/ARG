@@ -96,6 +96,8 @@
 
 ![image-20211115205821803](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/image-20211115224446760.png)
 
+![image-20211115205821803](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/image-20211115224446761.png)
+
 解谜结束后，作者透露了一个小消息：
 
 > 原本一开始的谜题图片只打算写`这条路通向哪里... Where does this road lead...`。“lead (~from/to sth): to connect one object or place to another”。最后担心玩家没想到，就直接明示connect了。

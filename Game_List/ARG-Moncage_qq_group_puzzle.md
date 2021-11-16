@@ -94,7 +94,7 @@
 
 解决了所有问题后就可以得到两个文件夹（一样的），都是下面的网页，7 个字自然就是 “**祝笼中窥梦大卖**” 啦
 
-![image-20211115205821803](img src="https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/image-20211115224446760.png)
+![image-20211115205821803](img src="https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/image-20211115224446760.png")
 
 解谜结束后，作者透露了一个小消息：
 

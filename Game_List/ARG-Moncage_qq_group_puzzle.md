@@ -102,4 +102,4 @@
 
 > 原本一开始的谜题图片只打算写`这条路通向哪里... Where does this road lead...`。“lead (~from/to sth): to connect one object or place to another”。最后担心玩家没想到，就直接明示connect了。
 
-然而据玩家们说，解谜的时候并没有考虑到字幕也想到了连线。这说明脑电波对上了。
+然而据玩家们说，解谜的时候并没有考虑到字幕，但也想到了连线。这说明脑电波对上了。

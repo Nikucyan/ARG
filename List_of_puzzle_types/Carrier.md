@@ -10,6 +10,8 @@ This repo is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcformpar
 ## 1. 缓存视频文件名
 因为视频在上传至视频网站的时候，如果在网站上有编辑视频标题，则网站上的视频标题会显示新的标题，而只有将视频缓存下来，才能看到原本视频文件的名字。许多up主都会偷偷藏些有趣的标题。
 
+b站的缓存视频文件名必须通过其客户端下载才可以看到（不论pc端还是移动端），下载视频文件后，可以在其缓存目录下的 .info 或者 entry.json 内看到详情。
+
 *Example*</br>
 *Retrieved from: 变态人生欢乐多，[A站ARG - 方枝联动解谜活动 - 凿饮](https://www.acfun.cn/a/ac21015884?)* </br>
 

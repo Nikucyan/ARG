@@ -186,6 +186,7 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 - [生成条码](https://barcode.tec-it.com/zh/Code128?data=ABC-abc-1234)
 - [草料二维码](https://cli.im/)
 - [labster - 密码学](https://www.cnblogs.com/labster/tag/%E5%AF%86%E7%A0%81%E5%AD%A6/)
+- [位运算(按位与,或,异或)在线计算器](https://www.23bei.com/tool-531.html)
 
 
 

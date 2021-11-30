@@ -98,4 +98,4 @@ Alt码（Alt code）即在IBM兼容个人电脑上，许多字符没有直接对
 `https://www.windows.com/stopcode?go=active.hjxsy.cn&see=be_careful`</br>
 当你使用的时候可以发现，真正有效的网址只有前半部分：</br>
 `https://www.windows.com/stopcode`</br>
-剩下的`?go=active.hjxsy.cn&see=be_careful`都为提示所用。
+剩下的`go=active.hjxsy.cn&see=be_careful`都为提示所用。

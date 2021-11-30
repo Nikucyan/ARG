@@ -165,6 +165,8 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 
 > - [ARG与我的游戏旅程 ( 中 ) - YesterMorrow](https://mp.weixin.qq.com/s/d4PPhiBVGXUSqctij_c77g)
 
+- [ARG - 笼中窥梦群内解谜](https://github.com/Nikucyan/ARG/blob/main/Game_List/ARG-Moncage_qq_group_puzzle.md)
+
 </br>
 
 ---

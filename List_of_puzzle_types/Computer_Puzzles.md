@@ -87,3 +87,15 @@ Alt码（Alt code）即在IBM兼容个人电脑上，许多字符没有直接对
 
 ![alt_code](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/alt_code.png)
 </br></br>
+
+## 网址问号
+这个问号后面的当前页面跳转到下一页面时的参数传递，每一个等于号的两边分别的key和value，下一个页面可以通过这些参数生成适当的页面内容。但如果网址实际上不需要输入什么参数，他就会无视掉。所以可以用这个来提示东西。
+
+*Example* </br>
+*Retrieved from: [A站ARG - 方枝联动解谜活动 - 凿饮](https://www.acfun.cn/a/ac21015884)* </br>
+
+第二阶段 - 青布·其十 的谜题中有这么个网址：</br>
+`https://www.windows.com/stopcode?go=active.hjxsy.cn&see=be_careful`</br>
+当你使用的时候可以发现，真正有效的网址只有前半部分：</br>
+`https://www.windows.com/stopcode`</br>
+剩下的`?go=active.hjxsy.cn&see=be_careful`都为提示所用。

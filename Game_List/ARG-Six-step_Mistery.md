@@ -21,7 +21,7 @@
 ![ssm_card](https://cdn.jsdelivr.net/gh/Nikucyan/ARG/Images/ssm_Card.png) 
 
 - 整个图看起来杂乱无章，但最后一列的 “REMOVE” 恰好组成一个单词，意为 “移除”，如果将最后一列移除后矩阵变为 6×6 的大小
-- 但换种思维，在矩阵中，按从上到下，从左到右的次序，将每第七个字母移除，第一次的移除结果与上面相同
+- 但换种思维，在矩阵中，按从左到右，从上到下的次序，将每第七个字母移除，第一次的移除结果与上面相同
 - 第二次移除出去的字母为 “EXTRA”，第三次为 “LETT”，第四次为 “ERSS”，后续为 “EVE”、“NTI”、“MES”
 - 连起来即为 “REMOVE EXTRA LETTERS SEVEN TIMES”（移除 7 次多余字母）
 - 答案为移除这 7 次之后剩下的：“I AM WATCHING YOU”

@@ -185,6 +185,7 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 - [草料二维码](https://cli.im/)
 - [反切注韵法——解开《御赐小仵作》里沉默的真相](https://www.bilibili.com/read/cv11444126)
 - [A0Z25 or A1Z26](https://github.com/nabilridhwan/A00Z25)
+- [labster - 密码学](https://www.cnblogs.com/labster/tag/%E5%AF%86%E7%A0%81%E5%AD%A6/)
 
 
 </br>

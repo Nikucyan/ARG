@@ -199,6 +199,7 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 - [ASCII编码转换](https://www.qqxiuzi.cn/bianma/ascii.htm)
 - [Number Conversion](https://www.rapidtables.com/convert/number/index.html)
 - [dCode's Tools List](https://www.dcode.fr/tools-list)
+- [XOR Calculator](https://xor.pw/)
 
 
 

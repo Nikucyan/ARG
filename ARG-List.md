@@ -163,6 +163,7 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 
 > - [笼中窥梦-藏Key活动解谜合集 上篇](https://weibo.com/ttarticle/p/show?id=2309404708928846954935)
 > - [《笼中窥梦》-藏Key活动解谜合集 中篇](https://weibo.com/ttarticle/p/show?id=2309404709644303204423)
+> - [《笼中窥梦》-藏Key活动解谜合集 下篇](https://weibo.com/ttarticle/p/show?id=2309404710319757852865)
 
 </br>
 
@@ -213,6 +214,7 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 - [winhex修改JPG文件编码](https://www.geek-share.com/detail/2703695569.html)
 - [A0Z25 or A1Z26](https://github.com/nabilridhwan/A00Z25)
 - [键盘按钮编码](https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)
+- [旗语](https://en.wikipedia.org/wiki/Flag_semaphore)
 
 
 </br>

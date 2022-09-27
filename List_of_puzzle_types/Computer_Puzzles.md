@@ -47,7 +47,7 @@ level-11 </br>
 尝试过通过word和纯文本 (plain text, txt) ，之间的转换来进行编码的转化，暂不成功。</br>
 *Retrieved from: Microsoft，[在打开和保存文件时选择文本编码](https://support.microsoft.com/zh-cn/office/%E5%9C%A8%E6%89%93%E5%BC%80%E5%92%8C%E4%BF%9D%E5%AD%98%E6%96%87%E4%BB%B6%E6%97%B6%E9%80%89%E6%8B%A9%E6%96%87%E6%9C%AC%E7%BC%96%E7%A0%81-60d59c21-88b5-4006-831c-d536d42fd861)* 
 
-**？（待解决）** 可能必须需要代码才能进行编码上的转化，还是说有其它简易方法
+**？（待解决）** 可能必须需要代码才能进行编码上的转化，还是说有其它简易方法 </br>
 **已解决** [utf-8 → GBK → utf-8](https://tool.chinaz.com/tools/urlencode.aspx)
 
 *Example*</br>

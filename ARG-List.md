@@ -167,7 +167,7 @@ This document is maintained by [Nikucyan](https://github.com/Nikucyan) & [bdcfor
 
 ### 21. The Past Within
 
-> - [The Past Within ARG](https://github.com/Nikucyan/ARG/blob/main/Game_List/ARG_TPW.md)
+> - [The Past Within ARG](https://github.com/Nikucyan/ARG/blob/main/Game_List/ARG-TPW.md)
 
 </br>
 

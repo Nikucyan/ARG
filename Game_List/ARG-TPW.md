@@ -105,8 +105,6 @@
 
 ![image-20221106001051403](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221106001051403.png)
 
-![image-20221106001208764](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221106001208764.png)
-
 还有更多图案还暂时不能确定用途
 
 原来的图片太乱了，于是朋友 johnoo00sp（[他的 GitHub 主页](https://github.com/bdcformpara)）做了一个新的共享画布在 [Magma](https://magma.com/d/oLLEFJjqT6) 上给大家一起整合信息。这是目前的收集进展，有网友发现部分图案存在一定的重合，推测可能需要拼凑起来（未证实）

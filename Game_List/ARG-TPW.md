@@ -115,6 +115,12 @@
 
 
 
+【更新于 11.6 凌晨】有网友考虑到了对应游戏中迷宫的可能性，做了 [Google Sheet](https://docs.google.com/spreadsheets/d/1f12itYCio9_KC9TwGwqowjLvCStxCoB7MYOVNcOrEP8/edit?usp=sharing) 将有线段的图案和九宫格卷轴进行拼合
+
+![image-20221106011039556](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221106011039556.png)
+
+
+
 另外可能的更多卷轴的位置，大家的讨论集中在黑板上的卷轴图案，但暂未被证实。应该要等到下次直播才能见分晓。
 
 

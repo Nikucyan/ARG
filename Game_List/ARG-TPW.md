@@ -107,15 +107,17 @@
 
 还有更多图案还暂时不能确定用途
 
-原来的图片太乱了，于是朋友 johnoo00sp（[他的 GitHub 主页](https://github.com/bdcformpara)）做了一个新的共享画布在 [Magma](https://magma.com/d/oLLEFJjqT6) 上给大家一起整合信息。这是目前的收集进展，有网友发现部分图案存在一定的重合，推测可能需要拼凑起来（未证实）
+原来的图片太乱了，于是朋友 johnoo00sp（[他的 GitHub 主页](https://github.com/bdcformpara)）做了一个新的共享画布在 [Magma](https://magma.com/d/oLLEFJjqT6) 上给大家一起整合信息。目前主要的维护者为 johnoo00sp 和 Discord 里一位颜文字网友【≽ܫ≼】#2190
 
-【下图更新于 11.6 凌晨 0 时】
+下面这是目前的收集进展，有网友发现部分图案存在一定的重合，推测可能需要拼凑起来（未证实）
 
-![image-20221106001614143](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221106001614143.png)
+【下图更新于 11.6 中午 1 时】
+
+![image-20221106130724817](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221106130724817.png)
 
 
 
-【更新于 11.6 凌晨】有网友考虑到了对应游戏中迷宫的可能性，做了 [Google Sheet](https://docs.google.com/spreadsheets/d/1f12itYCio9_KC9TwGwqowjLvCStxCoB7MYOVNcOrEP8/edit?usp=sharing) 将有线段的图案和九宫格卷轴进行拼合
+【更新于 11.6 凌晨】Discord 网友 7max18#6825 考虑到了对应游戏中迷宫的可能性，做了 [Google Sheet](https://docs.google.com/spreadsheets/d/1f12itYCio9_KC9TwGwqowjLvCStxCoB7MYOVNcOrEP8/edit?usp=sharing) 将有线段的图案和九宫格卷轴进行拼合
 
 ![image-20221106011039556](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221106011039556.png)
 

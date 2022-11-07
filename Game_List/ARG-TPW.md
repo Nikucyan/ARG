@@ -110,13 +110,13 @@
 
 还有更多图案还暂时不能确定用途
 
-原来的图片太乱了，于是朋友 johnoo00sp（[他的 GitHub 主页](https://github.com/bdcformpara)）做了一个新的共享画布在 [Magma](https://magma.com/d/oLLEFJjqT6) 上给大家一起整合信息。目前主要的维护者为 johnoo00sp 和 Discord 里一位颜文字网友【≽ܫ≼】#2190
+原来的图片太乱了，于是朋友 johnoo00sp（[GitHub 主页](https://github.com/bdcformpara)）做了一个新的共享画布在 [Magma](https://magma.com/d/oLLEFJjqT6) 上给大家一起整合信息。目前主要的维护者为 johnoo00sp 和 Discord 里的颜文字网友【≽ܫ≼】#2190
 
 下面这是目前的收集进展，有网友发现部分图案存在一定的重合，推测可能需要拼凑起来（未证实）
 
 【下图更新于 11.6 中午 1 时】
 
-![image-20221106130724817](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221106130724817.png)
+![image-20221107120405637](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221107120405637.png)
 
 
 
@@ -126,7 +126,9 @@
 
 
 
-另外可能的更多卷轴的位置，大家的讨论集中在黑板上的卷轴图案，但暂未被证实。应该要等到下次直播才能见分晓。
+另外可能的更多卷轴的位置，大家的讨论集中在黑板上的卷轴图案，但暂未被证实。应该要等到下次直播才能见分晓。【11.7 更新】频道内已有人宣布确认试出来确实可以解锁新的卷轴，暂未提供复现方法和新卷轴的内容，真实性存疑。
+
+![image-20221107120439655](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221107120439655.png)
 
 
 

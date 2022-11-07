@@ -23,6 +23,7 @@
 
 ## 更新日志
 
+- 【11.7 晚上】更新了 IG 新直播预告，日常 Magma 更新，黑板上新卷轴地点被宣告确认
 - 【11.6 中午】新增了封面，更新了 Magma 内容，增加了新的共享 Google Sheet 的截图，修订了部分表达
 - 【11.5 晚上】把 Keylol 上的帖子转到 Markdown 并备份至 GitHub。一些之前的更新我已经设定为固定内容不再打上“更新”的标签，今天的更新主要是更新了隐藏信息中玩家找到的图标，并换成了目前大家在用的共享画布 Magma 的内容，主要是为了让信息更直观、查找更轻松；另外更新了一点被解包的内容
 
@@ -92,6 +93,18 @@
 
 
 
+### 直播 3 - 22 年 11 月 8 日晚上（23:00, UTC+8）
+
+目前官方的 [IG](https://www.instagram.com/p/CkqatFosYc0/) 已经放出直播通知，明天晚上见。直播片段名为：`MemoryCubeRecording_02932`
+
+![image-20221107223054105](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221107223054105.png)
+
+![image-20221107223134390](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221107223134390.png)
+
+
+
+
+
 ## 隐藏线索
 
 随着这两天越来越多大哥破关，频道里也热闹起来了，有意思的是不同于此前《白门》直接提供了指向他们网站的线索，这次的 ARG 形式是给上述拿到隐藏卷轴的用户奖励意义不明的小图案，目前发现的已经有不重复的**超过 140** 张（真的是越来越夸张了，从一开始我开帖时候的 30 张，到 80 多张，到现在还在不断增加……
@@ -114,9 +127,9 @@
 
 下面这是目前的收集进展，有网友发现部分图案存在一定的重合，推测可能需要拼凑起来（未证实）
 
-【下图更新于 11.7 中午】
+【下图更新于 11.7 晚上】
 
-![image-20221107120405637](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221107120405637.png)
+![image-20221107223313039](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221107223313039.png)
 
 
 

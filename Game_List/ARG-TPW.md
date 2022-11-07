@@ -114,7 +114,7 @@
 
 下面这是目前的收集进展，有网友发现部分图案存在一定的重合，推测可能需要拼凑起来（未证实）
 
-【下图更新于 11.6 中午 1 时】
+【下图更新于 11.7 中午】
 
 ![image-20221107120405637](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221107120405637.png)
 

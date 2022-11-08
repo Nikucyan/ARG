@@ -23,6 +23,7 @@
 
 ## 更新日志
 
+- 【11.9 凌晨】更新了刚刚结束的最新直播！日常更新了 Magma（一下多了好多！）
 - 【11.7 晚上】更新了 IG 新直播预告，日常 Magma 更新，黑板上新卷轴地点被宣告确认
 - 【11.6 中午】新增了封面，更新了 Magma 内容，增加了新的共享 Google Sheet 的截图，修订了部分表达
 - 【11.5 晚上】把 Keylol 上的帖子转到 Markdown 并备份至 GitHub。一些之前的更新我已经设定为固定内容不再打上“更新”的标签，今天的更新主要是更新了隐藏信息中玩家找到的图标，并换成了目前大家在用的共享画布 Magma 的内容，主要是为了让信息更直观、查找更轻松；另外更新了一点被解包的内容
@@ -63,7 +64,7 @@
 
 这里的滑块提示是对应的后文中未来之人的隐藏线索，（这里一开始是被暴力破解的，答案为 `2 4 4`），在已经把年份设定为 `1867` 的情况下把滑块移动到对应位置即可获得隐藏奖励，具体还没有实际依据（我自己的截图不见了，先拿我自己在 Keylol 上的帖子凑个数）
 
-![](https://blob.keylol.com/forum/202211/04/111008hnliwjiblmzqnwqb.png?a=a)
+![](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/111008hnliwjiblmzqnwqb.png)
 
 
 
@@ -149,23 +150,17 @@
 
 原来的图片太乱了，于是朋友 johnoo00sp（[GitHub 主页](https://github.com/bdcformpara)）做了一个新的共享画布在 [Magma](https://magma.com/d/oLLEFJjqT6) 上给大家一起整合信息。目前主要的维护者为 johnoo00sp 和 Discord 里的颜文字网友【≽ܫ≼】#2190
 
-下面这是目前的收集进展，有网友发现部分图案存在一定的重合，推测可能需要拼凑起来（未证实）
+下面这是目前的收集进展，有网友发现部分图案存在一定的重合，推测可能需要拼凑起来（【更新】已证实，确实有大量连起来的部分）
 
-【下图更新于 11.7 晚上】
+【下图更新于 11.9 凌晨】
 
-![image-20221107223313039](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221107223313039.png)
+![https://magma.com/shared/AwRGj2Nqk0YbG5zIHHbpbg](https://magma.com/shared/AwRGj2Nqk0YbG5zIHHbpbg)
 
 
 
 【更新于 11.6 凌晨】Discord 网友 7max18#6825 考虑到了对应游戏中迷宫的可能性，做了 [Google Sheet](https://docs.google.com/spreadsheets/d/1f12itYCio9_KC9TwGwqowjLvCStxCoB7MYOVNcOrEP8/edit?usp=sharing) 将有线段的图案和九宫格卷轴进行拼合
 
 ![image-20221106011039556](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221106011039556.png)
-
-
-
-另外可能的更多卷轴的位置，大家的讨论集中在黑板上的卷轴图案，但暂未被证实。应该要等到下次直播才能见分晓。【11.7 更新】频道内已有人宣布确认试出来确实可以解锁新的卷轴，暂未提供复现方法和新卷轴的内容，真实性存疑。
-
-![image-20221107120439655](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221107120439655.png)
 
 
 

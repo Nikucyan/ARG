@@ -95,13 +95,37 @@
 
 ### 直播 3 - 22 年 11 月 8 日晚上（23:00, UTC+8）
 
-目前官方的 [IG](https://www.instagram.com/p/CkqatFosYc0/) 已经放出直播通知，明天晚上见。直播片段名为：`MemoryCubeRecording_02932`
+> 目前官方的 [IG](https://www.instagram.com/p/CkqatFosYc0/) 已经放出直播通知，明天晚上见。直播片段名为：`MemoryCubeRecording_02932`
+>
+> ![image-20221107223054105](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221107223054105.png)![image-20221107223134390](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221107223134390.png)
 
-![image-20221107223054105](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221107223054105.png)
+![img](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/L5iyBK3300-eCuNHSwvv-RjSb--4bz-rc5vCnrX2awYjHEe7QefLs3Q85osPD1C5KvgHhRXXfYF197k3em3z5xstmCGm5by1P-mEnf5qiR7sWjXRwi0iq3j3d_SrMmFMFvlN_p_znaan87duoNePsIteyRV6Yk3YUwoo86Lm_ETtH1G8Gdg6K4g1h8sXBQ)
 
-![image-20221107223134390](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221107223134390.png)
+这次直播大家都早早猜到是黑板上的符号作为谜题内容，直播时左上角会出现 `X` 或 `O` 并且在屏幕/方块/场景中显示信息，比如最早的时候有同时出现 `O` 和月亮、`X` 和镜像化的 `KNIFE`（如图）
 
+![img](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/uVrsSskXa68VnAKNGFl4hdvwGQ4IDPCLTHWbmE21XC50QPNl9djobAQwJ6mh8LPKvTZZIV8HWOZDwNkHFGCok09kUANa5DflgWGeyXjUKaeD2wAWU445ldIQakihjQT_ftyZLfSDUPg4Kni8kVRuDcKeK7zpYaclMWqE1aEJD9ml7h-_NPeCYj7jAS-7xQ)
 
+谜题的形式非常多样，出现的包括不仅限于：猪圈谜题、莫尔斯电码、镜像化、文字提示、二进制、ASCII 编码（`70 76 69 83 72` -> `FLESH`）、多语种、字母表对应等等
+
+其中我很喜欢多语言谜题：
+
+![image-20221109000459083](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221109000459083.png)
+
+这句话由世界各地网友一同整理得到：I am (french) always (jp) in front of (portuguese) you (polish)，意为“我一直在你之前”，即“未来”。
+
+![image-20221109000524426](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221109000524426.png)
+
+同理，这个的意思是“年轻的时候我很高，老的时候矮”，也就是“蜡烛”
+
+**最终整理如下**：
+
+血液 (X) - **月亮** (O) - 刀 (X) - 耳朵日记 (X) - **太阳** (O) - **宝石** (X) -  锤子 (X) - 棺材 (X) - **卷轴** (O) - 眼睛 (X) - 钥匙 (X) - **面具** (O) - 方块 (X) - 未来 (X) - 肉 (X) - 腐朽的灵魂 (X) - 骨头 (X) - **蜡烛** (O) - **眼睛** (O)  - 树（无符号）
+
+所以黑板上的答案为所有对应 `O` 的符号：月亮、太阳、宝石、卷轴（掉下去了）、面具、蜡烛、眼睛
+
+![img](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image.png)
+
+注：由 Google Doc、Discord 各网友合力整理！
 
 
 

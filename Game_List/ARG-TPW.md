@@ -152,9 +152,9 @@
 
 下面这是目前的收集进展，有网友发现部分图案存在一定的重合，推测可能需要拼凑起来（【更新】已证实，确实有大量连起来的部分）
 
-【下图更新于 11.9 凌晨】
+【下图更新于 11.9 中午】
 
-![https://magma.com/shared/AwRGj2Nqk0YbG5zIHHbpbg](https://magma.com/shared/AwRGj2Nqk0YbG5zIHHbpbg)
+![magma](https://magma.com/shared/bVILCibFY2s71TcFrVR0LQ)
 
 
 

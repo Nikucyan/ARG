@@ -10,9 +10,9 @@
 
 ## 前言
 
-这两天和基友一起把锈湖新作[ The Past Within ](https://keylol.com/go.php?url=https://store.steampowered.com/app/1515210/The_Past_Within/) 两周目双视角通关了。感想就不写了，总之除了演出效果挺不错之外突出一个索然无味
+这两天和基友一起把锈湖新作 [The Past Within](https://keylol.com/go.php?url=https://store.steampowered.com/app/1515210/The_Past_Within/) 两周目双视角通关了。感想就不写了，总之除了演出效果挺不错之外突出一个索然无味
 
-![capsule](https://cdn.cloudflare.steamstatic.com/steam/apps/1515210/header.jpg?t=1636730573)
+<iframe src="https://store.steampowered.com/widget/1515210/" frameborder="0" width="646" height="190"></iframe>
 
 - 坏消息：The Past Within 两周目没什么感觉就通关了
 - 好消息：锈湖嘛，老玩家都知道本体只是前菜，ARG 才是正餐

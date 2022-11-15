@@ -23,6 +23,7 @@
 
 ## 更新日志
 
+- 【11.15 中午】更新直播预告四，直播预计在 22 年 11 月 18 日凌晨 0:00 播放（UTC+8）
 - 【11.10 上午】日常更新 Magma、Google Sheet，更新部分猜测
 - 【11.9 凌晨】更新了刚刚结束的最新直播！日常更新了 Magma（一下多了好多！）
 - 【11.7 晚上】更新了 IG 新直播预告，日常 Magma 更新，黑板上新卷轴地点被宣告确认
@@ -103,6 +104,8 @@
 
 ![img](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/L5iyBK3300-eCuNHSwvv-RjSb--4bz-rc5vCnrX2awYjHEe7QefLs3Q85osPD1C5KvgHhRXXfYF197k3em3z5xstmCGm5by1P-mEnf5qiR7sWjXRwi0iq3j3d_SrMmFMFvlN_p_znaan87duoNePsIteyRV6Yk3YUwoo86Lm_ETtH1G8Gdg6K4g1h8sXBQ)
 
+直播名：[MemoryCubeRecording_02932](https://www.youtube.com/watch?v=_yL0Zlxbn0k)
+
 这次直播大家都早早猜到是黑板上的符号作为谜题内容，直播时左上角会出现 `X` 或 `O` 并且在屏幕/方块/场景中显示信息，比如最早的时候有同时出现 `O` 和月亮、`X` 和镜像化的 `KNIFE`（如图）
 
 ![img](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/uVrsSskXa68VnAKNGFl4hdvwGQ4IDPCLTHWbmE21XC50QPNl9djobAQwJ6mh8LPKvTZZIV8HWOZDwNkHFGCok09kUANa5DflgWGeyXjUKaeD2wAWU445ldIQakihjQT_ftyZLfSDUPg4Kni8kVRuDcKeK7zpYaclMWqE1aEJD9ml7h-_NPeCYj7jAS-7xQ)
@@ -131,6 +134,18 @@
 
 
 
+### 直播 4 - 22 年 11 月 18 日凌晨 (0:00, UTC+8)
+
+> 15 日凌晨（UTC+8）官方又放出了第四次直播的通知，据此前推测很有可能是最后一次直播了，直播时间为 2022 年 **11 月 18 日凌晨 00:00 (UTC+8)** / 17 日傍晚 17:00 (CET)
+>
+> 直播名为暂未公开，但小视频中左上角显示的小小的加号/十字架可能是最后一次直播的关键信息（这不是谁都看得出来嘛x）。
+>
+> ![image-20221115121641810](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221115121641810.png)
+
+
+
+
+
 ## 隐藏线索
 
 随着这两天越来越多大哥破关，频道里也热闹起来了，有意思的是不同于此前《白门》直接提供了指向他们网站的线索，这次的 ARG 形式是给上述拿到隐藏卷轴的用户奖励意义不明的小图案，目前发现的已经有不重复的**超过 140** 张（真的是越来越夸张了，从一开始我开帖时候的 30 张，到 80 多张，到现在还在不断增加……
@@ -151,21 +166,27 @@
 
 原来的图片太乱了，于是朋友 johnoo00sp（[GitHub 主页](https://github.com/bdcformpara)）做了一个新的共享画布在 [Magma](https://magma.com/d/oLLEFJjqT6) 上给大家一起整合信息。下面这是目前的收集进展，有网友发现部分图案存在一定的重合，推测可能需要拼凑起来（【更新】已证实，确实有大量连起来的部分）
 
-【下图更新于 11.10 上午】
+【下图更新于 11.15 中午】
 
-![magma](https://magma.com/shared/-GNsY3GmMqbAJeb7rxahew)
+![magma](https://magma.com/shared/n-_Ta-vwZlxjcxMii4YPTg)
 
 
 
 Discord 网友 7max18#6825 考虑到了对应游戏中迷宫的可能性，做了 [Google Sheet](https://docs.google.com/spreadsheets/d/1f12itYCio9_KC9TwGwqowjLvCStxCoB7MYOVNcOrEP8/edit?usp=sharing) 将有线段的图案和九宫格卷轴进行拼合
 
-【更新于 11.10 上午】这里的主要猜测如下：先把九宫格图案拼合成巨大的图块，然后把带线段的部分图案叠放在上面，或者用上图右侧的等号进行代入，从而发现规律。
+【更新于 11.15 中午】这里的主要猜测如下：先把九宫格图案拼合成巨大的图块，然后把带线段的部分图案叠放在上面，或者用上图右侧的等号进行代入，从而发现规律。
 
-![image-20221110105510270](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221110105510270.png)
+![image-20221115121941525](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221115121941525.png)
 
 按目前的进度来看，更可能这些带线段的图案叠放在九宫格连接形成的大块图案上之后可以形成不同的数字/字母信息。（如下图，这里被普遍认为可能是数字串 `1205`，但尚未得到证实，也还不清楚具体作用）
 
 ![image-20221110105519485](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221110105519485.png)
+
+【更新于 11.15 中午】前几天 Discord 群组里的网友 OneStage（雨尘King#1030）提出他的理论，把所有东西（暂时）用他的方法串了起来，非常的合理（虽然还没有确定是不是最终答案，但应该会是非常接近的答案了）。他还附上一个自己的解析图片
+
+![image-20221115122126108](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221115122126108.png)
+
+![image-20221115122154731](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221115122154731.png)
 
 
 

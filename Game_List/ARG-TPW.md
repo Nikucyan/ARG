@@ -168,8 +168,6 @@
 
 这样就获得了最后一个卷轴！
 
-![image-20221118010804498](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221118010804498.png)
-
 
 
 
@@ -180,7 +178,7 @@
 
 下面是我自己的截图
 
-![image-20221106000652191](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221106000652191.png)
+![image-20221118010804498](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221118010804498.png)
 
 ![image-20221106001034778](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221106001034778.png)
 
@@ -194,9 +192,9 @@
 
 原来的图片太乱了，于是朋友 johnoo00sp（[GitHub 主页](https://github.com/bdcformpara)）做了一个新的共享画布在 [Magma](https://magma.com/d/oLLEFJjqT6) 上给大家一起整合信息。下面这是目前的收集进展，有网友发现部分图案存在一定的重合，推测可能需要拼凑起来（【更新】已证实，确实有大量连起来的部分）
 
-【下图更新于 11.15 中午】
+【下图更新于 11.18 凌晨】
 
-![magma](https://magma.com/shared/n-_Ta-vwZlxjcxMii4YPTg)
+![magma](https://magma.com/shared/Ti00d8JWr2N2cU-Tiyki9A)
 
 
 

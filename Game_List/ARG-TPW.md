@@ -142,6 +142,34 @@
 >
 > ![image-20221115121641810](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221115121641810.png)
 
+新直播标题为：[MemoryCubeRecording_03152](https://www.youtube.com/watch?v=fhtyUs5gTbI) (YouTube)
+
+![image-20221118001230905](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221118001230905.png)
+
+先是出现了一只经典小虾，自带了一个走得超慢的进度条。此后**虾**逐渐变化成了**蜜蜂**、**蝴蝶**和**玫瑰花**。在 Discord 频道中有人打出来这四个东西的 emoji 后就解锁了（不知道有没有关系 lol）
+
+![image-20221118002224613](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221118002224613.png)
+
+此后屏幕上显示 Steam 处理中和 Steam 交易卡片的信息（同时 Steam 的游戏和卡片真的更新上线了）
+
+![image-20221118002311856](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221118002311856.png)
+
+然后屏幕上显示了钢琴的信息，大家同时发现交易卡片上面出现了字母。此时把屏幕上左上角的数字、黑方块里的内容、交易卡片的字母一一对应起来，或者根据题目本身的信息（部分直接使用的五线谱，可以直接对应上；还有用的过往游戏里的内容，如哈维的盒子中的梳子、根源中的小提琴、天堂岛里的乐队等等），就能得到一串完整的 16 个音符的乐谱。
+
+![image-20221118003631410](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221118003631410.png)
+
+![image-20221118003614247](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221118003614247.png)
+
+最终整理如下：
+
+|  1   |  2   |  3   |  4   |  5   |  6   |  7   |  8   |  9   |  10  |  11  |  12  |  13  |  14  |  15  |  16  |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|  A   |  B   |  C   |  D   |  C   |  D   |  E   |  G   |  E   |  D   |  C   |  B   |  C   |  B   |  A   |  G   |
+
+这样就获得了最后一个卷轴！
+
+![image-20221118010804498](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221118010804498.png)
+
 
 
 

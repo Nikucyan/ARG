@@ -23,7 +23,7 @@
 
 ## 更新日志
 
-- 【11.18 凌晨】更新直播 4 相关，更新 Magma
+- 【11.18 中午】更新直播 4 相关，更新 Magma 和 Google Sheet，添加了 [Notion 备份](https://discovered-tiara-fe8.notion.site/The-Past-Within-ARG-2022-11-7e2413a98063478babfc802d6af7b43e)
 - 【11.15 中午】更新直播预告四，直播预计在 22 年 11 月 18 日凌晨 0:00 播放（UTC+8）
 - 【11.10 上午】日常更新 Magma、Google Sheet，更新部分猜测
 - 【11.9 凌晨】更新了刚刚结束的最新直播！日常更新了 Magma（一下多了好多！）
@@ -193,17 +193,17 @@
 
 原来的图片太乱了，于是朋友 johnoo00sp（[GitHub 主页](https://github.com/bdcformpara)）做了一个新的共享画布在 [Magma](https://magma.com/d/oLLEFJjqT6) 上给大家一起整合信息。下面这是目前的收集进展，有网友发现部分图案存在一定的重合，推测可能需要拼凑起来（【更新】已证实，确实有大量连起来的部分）
 
-【下图更新于 11.18 凌晨】
+【下图更新于 11.18 中午】
 
-![magma](https://magma.com/shared/Ti00d8JWr2N2cU-Tiyki9A)
+![magma](https://magma.com/shared/QGN28wJWx3vFK81Aka7KQw)
 
 
 
 Discord 网友 7max18#6825 考虑到了对应游戏中迷宫的可能性，做了 [Google Sheet](https://docs.google.com/spreadsheets/d/1f12itYCio9_KC9TwGwqowjLvCStxCoB7MYOVNcOrEP8/edit?usp=sharing) 将有线段的图案和九宫格卷轴进行拼合
 
-【更新于 11.15 中午】这里的主要猜测如下：先把九宫格图案拼合成巨大的图块，然后把带线段的部分图案叠放在上面，或者用上图右侧的等号进行代入，从而发现规律。
+【更新于 11.18 中午】这里的主要猜测如下：先把九宫格图案拼合成巨大的图块，然后把带线段的部分图案叠放在上面，或者用上图右侧的等号进行代入，从而发现规律。
 
-![image-20221115121941525](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221115121941525.png)
+![image-20221118111036908](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221118111036908.png)
 
 按目前的进度来看，更可能这些带线段的图案叠放在九宫格连接形成的大块图案上之后可以形成不同的数字/字母信息。（如下图，这里被普遍认为可能是数字串 `1205`，但尚未得到证实，也还不清楚具体作用）
 

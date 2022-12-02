@@ -23,6 +23,7 @@
 
 ## 更新日志
 
+- 【12.2】更新直播预告 5 与 Magma
 - 【11.18 中午】更新直播 4 相关，更新 Magma 和 Google Sheet，添加了 [Notion 备份](https://discovered-tiara-fe8.notion.site/The-Past-Within-ARG-2022-11-7e2413a98063478babfc802d6af7b43e)
 - 【11.15 中午】更新直播预告四，直播预计在 22 年 11 月 18 日凌晨 0:00 播放（UTC+8）
 - 【11.10 上午】日常更新 Magma、Google Sheet，更新部分猜测
@@ -171,6 +172,16 @@
 
 
 
+### 直播 5 - 22 年 12 月 7 日
+
+12 月 2 日晚官方在 Discord、Twitter 等平台中公布了一张摆满了 VHS 录像带的图片，明示最后一次直播将于 12 月 7 日进行。（图中从上往下数第二卷，编号为 `3669`，后面还有一个 `7-12`）
+
+果然考了个期末考还没进展是官方还没做好直播内容吧！
+
+![image-20221202235451778](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221202235451778.png)
+
+
+
 
 
 ## 隐藏线索
@@ -193,9 +204,9 @@
 
 原来的图片太乱了，于是朋友 johnoo00sp（[GitHub 主页](https://github.com/bdcformpara)）做了一个新的共享画布在 [Magma](https://magma.com/d/oLLEFJjqT6) 上给大家一起整合信息。下面这是目前的收集进展，有网友发现部分图案存在一定的重合，推测可能需要拼凑起来（【更新】已证实，确实有大量连起来的部分）
 
-【下图更新于 11.18 中午】
+【下图更新于 12.2 晚间】
 
-![magma](https://magma.com/shared/QGN28wJWx3vFK81Aka7KQw)
+![magma](https://magma.com/shared/jNlxNjxjiiBD57tZSTdY4g)
 
 
 

@@ -189,13 +189,13 @@
 
 ![image-20221207223445565](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221207223445565.png)
 
-最后在断断续续的 [广告片段](https://www.youtube.com/watch?v=F-Wf-s0hJck) 中我看到了这么一个网址：https://bestkeptmemory.com/
+最后在断断续续的 [广告片段](https://www.youtube.com/watch?v=F-Wf-s0hJck) 中看到了这么一个网址：https://bestkeptmemory.com/
 
 ![](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221207224020389.png)
 
 更多线索还在持续更新！
 
-余下内容因为内容非常多，已经在一个多小时的时间被尽数破解，关于这个网站相关的内容将在本文的 [最后一部分]() 继续更新……
+余下内容因为内容非常多，已经在一个多小时的时间被尽数破解，关于这个网站相关的内容将在本文的 [最后一部分](https://github.com/Nikucyan/ARG/blob/main/Game_List/ARG-TPW.md#%E7%BD%91%E9%A1%B5-best-kept-memory) 继续更新……
 
 
 
@@ -245,3 +245,20 @@ Discord 网友 7max18#6825 考虑到了对应游戏中迷宫的可能性，做�
 
 ## 网页 Best Kept Memory
 
+在 12 月 7 日第五次（最后一次）直播的最后，官方通过 [广告片段](https://www.youtube.com/watch?v=F-Wf-s0hJck) 的方式发布了这个网址：https://bestkeptmemory.com/ 
+
+![](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221207224020389.png)
+
+网页的元素非常的多，所以下面将会以
+
+
+
+
+
+## 名人堂
+
+这是截至 2022 年 12 月 8 日凌晨的名人堂（偷偷也发个自己的 ID 了 www）
+
+![image-20221208020410407](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221208020410407.png)
+
+![image-20221208020339749](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221208020339749.png)

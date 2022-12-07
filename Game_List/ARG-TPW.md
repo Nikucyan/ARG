@@ -172,15 +172,27 @@
 
 
 
-### 直播 5 - 22 年 12 月 7 日
+### 直播 5 - 22 年 12 月 7 日晚上（22:20, UTC+8）
 
-12 月 2 日晚官方在 Discord、Twitter 等平台中公布了一张摆满了 VHS 录像带的图片，明示最后一次直播将于 12 月 7 日进行。（图中从上往下数第二卷，编号为 `3669`，后面还有一个 `7-12`）
+> 12 月 2 日晚官方在 Discord、Twitter 等平台中公布了一张摆满了 VHS 录像带的图片，明示最后一次直播将于 12 月 7 日进行。（图中从上往下数第二卷，编号为 `3669`，后面还有一个 `7-12`）
+>
+> 果然考了个期末考还没进展是官方还没做好直播内容吧！
+>
+> ![image-20221202235451778](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221202235451778.png)
+>
+> 后续又更新了一张，暗示具体时间为 15 时（CET 时间，即 22:00 北京时间），不过最后鸽到了 22:20，也罢，小鸽不算鸽。
+>
+> ![img](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/Schermafbeelding_2022-12-06_om_10.59.58_AM.jpg)
 
-果然考了个期末考还没进展是官方还没做好直播内容吧！
+这场直播先是回顾了过去 4 个卷轴的内容（直接把对应的答案都给出来了）
 
-![image-20221202235451778](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221202235451778.png)
+![image-20221207223445565](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221207223445565.png)
 
+最后在断断续续的 [广告片段](https://www.youtube.com/watch?v=F-Wf-s0hJck) 中我看到了这么一个网址：https://bestkeptmemory.com/
 
+![](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221207224020389.png)
+
+更多线索还在持续更新！
 
 
 

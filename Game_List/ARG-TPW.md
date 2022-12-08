@@ -282,7 +282,7 @@ Discord 网友 7max18#6825 考虑到了对应游戏中迷宫的可能性，做�
 
 ![S_email](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/S_email.png)
 
-同时 Email 下面还有一个他们网站的 Logo（可以超链接到网站上）以及一个加载不出来头像但是可以看到的用户名：`user: cbrunswick`![image-20221208154757679](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221208154757679.png)
+同时 Email 下面还有一个他们网站的 Logo（可以超链接到网站上）以及一个头像，用户名为：`user: cbrunswick`![image-20221208154757679](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221208154757679.png)
 
 
 

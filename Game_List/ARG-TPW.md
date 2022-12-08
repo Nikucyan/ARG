@@ -2,7 +2,7 @@
 
 > 本文大多数内容来自官方 [Discord](https://discord.gg/rustylake) 频道的讨论和网友们共同努力编写的 [Google Doc](https://docs.google.com/document/d/1fGphzv33aRPH6_WK8zP5IYJBEzkdUZSXa_R8FQ6BsrE/edit#heading=h.un7wowf08xbo) 文档（请不要往里头加入无关内容），我只是稍微按着自己的思路整理了一下
 
-[![Weibo](https://img.shields.io/badge/Contact-Weibo-cf3d36)](https://weibo.com/u/2302207062) [![OriginalPost - Keylol](https://img.shields.io/badge/OriginalPost-Keylol-66bbff)](https://keylol.com/t850325-1-1) 
+[![Weibo](https://img.shields.io/badge/Contact-Weibo-cf3d36)](https://weibo.com/u/2302207062) [![OriginalPost - Keylol](https://img.shields.io/badge/OriginalPost-Keylol-66bbff)](https://keylol.com/t850325-1-1) [![](https://img.shields.io/badge/Backup-Notion-000000)](https://discovered-tiara-fe8.notion.site/ARG-TPW-9ef1d6e3186141ceb4dbb862f25a8647)
 
 ---
 
@@ -26,7 +26,7 @@
 - 【12.8】完结！更新了网页解谜的所有内容，并进行了此前内容的一些修补
 - 【12.7】更新直播 5 和相关网站的内容
 - 【12.2】更新直播预告 5 与 Magma
-- 【11.18 中午】更新直播 4 相关，更新 Magma 和 Google Sheet，添加了 [Notion 备份](https://discovered-tiara-fe8.notion.site/The-Past-Within-ARG-2022-11-7e2413a98063478babfc802d6af7b43e)
+- 【11.18 中午】更新直播 4 相关，更新 Magma 和 Google Sheet，添加了 [Notion 备份](https://discovered-tiara-fe8.notion.site/ARG-TPW-9ef1d6e3186141ceb4dbb862f25a8647)
 - 【11.15 中午】更新直播预告四，直播预计在 22 年 11 月 18 日凌晨 0:00 播放（UTC+8）
 - 【11.10 上午】日常更新 Magma、Google Sheet，更新部分猜测
 - 【11.9 凌晨】更新了刚刚结束的最新直播！日常更新了 Magma（一下多了好多！）
@@ -69,6 +69,8 @@
 ![image-20221106000424642](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221106000424642.png)
 
 这里的滑块提示是对应的后文中未来之人的隐藏线索，（这里一开始是被暴力破解的，答案为 `2 4 4`），在已经把年份设定为 `1867` 的情况下把滑块移动到对应位置即可获得隐藏奖励，具体还没有实际依据（我自己的截图不见了，先拿我自己在 Keylol 上的帖子凑个数）
+
+![image-20221208171638914](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221208171638914.png)
 
 ![](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/111008hnliwjiblmzqnwqb.png)
 
@@ -278,9 +280,9 @@ Discord 网友 7max18#6825 考虑到了对应游戏中迷宫的可能性，做�
 
 接下来当然就是联系一下，回复大意为（省略废话）“感谢联系！但是不幸的是我目前不在办公室，我或者我的同事会尽快和您联系。如果你需要任何帮助请在早 9 点到晚上 9 点之间通过 `+31 85 401 50 261` 联系我们。同时别忘了参加我们的记忆抽奖，可能能赢得我们的一个免费服务！”
 
-![img](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/TzPsQ58RXUZ9Ws0ddN8WBB4SzlN5vuaPWEVxt-e5qYEtTJbuLyV0DqjyRl8S3RAe0m6EJxz8bgxnLRY1aJhGAyeJVHDaD_XmgzBo_D4FfclsU9sc3jvFYq7EpLKSjPK10DYka_AzUPG2cN4ChKp4CsiL6Dymiv9WKOImAlb9cvXtCYKY91Byrofy4wBk5g)
+![S_email](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/S_email.png)
 
-同时 Email 下面还有一个他们网站的 Logo（可以超链接到网站上）以及一个加载不出来头像但是可以看到的用户名：`user: cbrunswick`![img](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/0Xp7_POWC9ZfOF6Mh-WAsmT7saN7VgZTMbYBqhla0Sy_2FXSmdbF0Z1lDjXbHeEjyF4ytzxHAFn8uALE4EhZ8bfwGMtOlVTvWCPh0OLMGzor4_rKWYdErVMtBiotD6sR6bkNRfrM-oKMW6RpAeyzahp-iEhP04yyu7jcgNIZrgi36H2tYSCnsy9ox6I8lQ)
+同时 Email 下面还有一个他们网站的 Logo（可以超链接到网站上）以及一个加载不出来头像但是可以看到的用户名：`user: cbrunswick`![image-20221208154757679](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221208154757679.png)
 
 
 
@@ -350,7 +352,7 @@ Discord 网友 7max18#6825 考虑到了对应游戏中迷宫的可能性，做�
 
   ![image-20221208135832472](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221208135832472.png)
 
-  其实是焱暒妏（过于抽象了喂）
+  其实是焱暒妏 Leetspeak（过于抽象了喂）
 
   把这些乱七八糟的东西转译完毕后可以得到： HAVE A RING BUT NO FINGERS. I USED TO STAY STILL ALL THE TIME, BUT NOWADAYS I FOLLOW YOU AROUND. （大意：有铃无手指，我曾一动不动，如今却能跟着你到处去）
 
@@ -422,7 +424,7 @@ Discord 网友 7max18#6825 考虑到了对应游戏中迷宫的可能性，做�
 
 点击每个客户（Clients）的文件夹可以看到他们对应的影像以及病历（或者信件来往等内容）
 
-不过可惜的是，目前暂时还不知道这些文件的具体作用，这个 ARG 的结束也看似不需要这些额外的资料，但可能可以作为世界观补充来看吧
+不过可惜的是，目前暂时还不知道这些文件的具体作用，这个 ARG 的结束也看似不需要这些额外的资料，但可能可以作为世界观补充来看吧（大概也可以起到一个”提醒一下下面那两个需要用到此前的卷轴信息“的作用？）
 
 ![image-20221208150551212](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221208150551212.png)
 

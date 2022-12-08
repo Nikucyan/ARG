@@ -316,7 +316,7 @@ Discord 网友 7max18#6825 考虑到了对应游戏中迷宫的可能性，做�
 
   ![image-20221208135023186](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221208135023186.png)
 
-- 6/10：在 `Services` 页面的第一段 ”Safely Store your memories with us“，需要通过点击最下方的那个 ”What do you see?“ 的第一个（蝴蝶）来显示内容
+- 6/10：在 `Services` 页面的第一段 ”Safely store your memories with us“，需要通过点击最下方的那个 ”What do you see?“ 的第一个（蝴蝶）来显示内容
 
   ![image-20221208135413134](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/image-20221208135413134.png)
 
@@ -337,9 +337,9 @@ Discord 网友 7max18#6825 考虑到了对应游戏中迷宫的可能性，做�
      \   \ -//
       \___\//-
          -//
-    		\\
-  	    //
-  	   //-
+    	   	\\
+  	      //
+  	     //-
        -//
        //
        \\

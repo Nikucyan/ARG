@@ -385,6 +385,7 @@ Discord 网友 7max18#6825 考虑到了对应游戏中迷宫的可能性，做�
   如果打电话过去在结尾会有一串合成音，音调为 `DEADFACE` 对应的是 emoji 的死人脸（差不多是这样 -> X_X）
   
   https://user-images.githubusercontent.com/47093733/206724666-92d01ba0-1077-459e-aba9-2d71333ac1bc.mp4
+  
   or download by [the past within arg phone call record](https://raw.githubusercontent.com/Nikucyan/ARG/main/Images/the_past_within_phone_call_record.mp4)
 
 
